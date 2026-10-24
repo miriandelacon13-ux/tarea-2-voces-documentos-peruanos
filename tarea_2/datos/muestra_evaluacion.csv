@@ -1,0 +1,21 @@
+id,modalidad,estrato,tamano_estrato,archivo,sha256_archivo,semilla,fecha_congelacion,excluidos_a_priori
+doc_005,documento,impreso,7,doc_005.png,ce8992a02dae76e992d64eec3b1282c5681e3477b504149217ee0fcdf22a4119,20261024,2026-10-24,doc_025: mapa con ~1 400 rótulos: referencia manual completa no factible
+doc_022,documento,impreso,7,doc_022.jpg,a46cbf11e04f2cd3ceccc37bc364ea0a018e732d89d4bf8febabe434b422a4db,20261024,2026-10-24,doc_025: mapa con ~1 400 rótulos: referencia manual completa no factible
+doc_023,documento,impreso,7,doc_023.jpg,adb9d2600dc2cf88724852d648da52a4845a160c59d10670cde102aec90a73f5,20261024,2026-10-24,doc_025: mapa con ~1 400 rótulos: referencia manual completa no factible
+doc_008,documento,foto,8,doc_008.jpg,dbae012f40f30e95d7898e74bf4a670bc1c3bf7bcff4b61bb22131c58ddc4a8b,20261024,2026-10-24,doc_025: mapa con ~1 400 rótulos: referencia manual completa no factible
+doc_011,documento,foto,8,doc_011.jpg,210df30efb259b2ce75526b0b4103045e3a9f7f15c4da3ef2e6fbdbbabdef465,20261024,2026-10-24,doc_025: mapa con ~1 400 rótulos: referencia manual completa no factible
+doc_019,documento,foto,8,doc_019.jpg,7ba9de62986d8b2786b8e8f5674c687d7f61eda5e62040909c6dc2ed5b537072,20261024,2026-10-24,doc_025: mapa con ~1 400 rótulos: referencia manual completa no factible
+doc_001,documento,manuscrito,9,doc_001.jpg,2327ee94101e57a1be4471c7b5f0cfb445a3fea765308a87af7a105529074a31,20261024,2026-10-24,doc_025: mapa con ~1 400 rótulos: referencia manual completa no factible
+doc_009,documento,manuscrito,9,doc_009.png,a04ad765e4fc294978bb2303695f76eb50980491bd4ee11439b55cc4f2c47ed7,20261024,2026-10-24,doc_025: mapa con ~1 400 rótulos: referencia manual completa no factible
+doc_015,documento,manuscrito,9,doc_015.jpg,6fb74cd94693df4d3f34837d6839bbdbcb77c4c869721acd454ae31b5b47987b,20261024,2026-10-24,doc_025: mapa con ~1 400 rótulos: referencia manual completa no factible
+doc_016,documento,manuscrito,9,doc_016.jpg,6860dc4ee57d3f2cdf8435d26248eb35df6dd99d064d94483a3bf36eed1d1450,20261024,2026-10-24,doc_025: mapa con ~1 400 rótulos: referencia manual completa no factible
+aud_002,audio,audio_A,7,aud_002.wav,2537d6e458c65209f6da23062ce673da13cf81c7be8865dc7faa298aa743dc1a,20261024,2026-10-24,doc_025: mapa con ~1 400 rótulos: referencia manual completa no factible
+aud_006,audio,audio_A,7,aud_006.wav,3de0aecef5f99e8e88a078bb1c7cbd8175f7667beb16ecc9b0cb4a2d2f0c66c0,20261024,2026-10-24,doc_025: mapa con ~1 400 rótulos: referencia manual completa no factible
+aud_010,audio,audio_B,3,aud_010.wav,19fb8730ae5a99f88c5378e548f4dae566fa550065134691fde289c09f82ca93,20261024,2026-10-24,doc_025: mapa con ~1 400 rótulos: referencia manual completa no factible
+aud_012,audio,audio_C,2,aud_012.wav,3e6cfbb369fc7f39c48275bd1a1ca38924d6962c1e560692e71a26a10be3bd02,20261024,2026-10-24,doc_025: mapa con ~1 400 rótulos: referencia manual completa no factible
+aud_013,audio,audio_D,4,aud_013.wav,5d6acc1c0b72d54bd60faeb6592bb2f9499ebe3c90aa79e333d1f1cfaec756ad,20261024,2026-10-24,doc_025: mapa con ~1 400 rótulos: referencia manual completa no factible
+aud_019,audio,audio_E,4,aud_019.wav,ab4f5660b884e9c729103599d7efe6f7c49c8c3657db37f91c76a1f40818fa10,20261024,2026-10-24,doc_025: mapa con ~1 400 rótulos: referencia manual completa no factible
+aud_022,audio,audio_F,7,aud_022.wav,7c4581de13d532a0941ea423b1793270991daafeed307f6bdbb44eb8b3d624b2,20261024,2026-10-24,doc_025: mapa con ~1 400 rótulos: referencia manual completa no factible
+aud_023,audio,audio_F,7,aud_023.wav,ac9439c133078ebd79ac43713f836ca6955031c3a2443193e3d26e73e47198b7,20261024,2026-10-24,doc_025: mapa con ~1 400 rótulos: referencia manual completa no factible
+aud_026,audio,audio_F,7,aud_026.wav,1215b2d083260ddb2694eaef9a61972c725efda09b8c80f9dea7d99cb1a6905a,20261024,2026-10-24,doc_025: mapa con ~1 400 rótulos: referencia manual completa no factible
+aud_028,audio,audio_G,3,aud_028.wav,3508a32a953c28384b95dd0b4dadce71072c2a26666b0de1dc2356d3300903d5,20261024,2026-10-24,doc_025: mapa con ~1 400 rótulos: referencia manual completa no factible

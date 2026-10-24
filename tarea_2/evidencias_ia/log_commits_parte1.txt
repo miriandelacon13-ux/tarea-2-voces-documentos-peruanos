@@ -1,0 +1,79 @@
+Registro de commits — Tarea 2 (generado el 2026-10-24 09:58)
+Repositorio: Tarea2_Python · rama: main
+
+== git log --oneline ==
+041bb40 eda: agrega notebook 01 ejecutado, CSV finales y visualizaciones
+6ef41f2 privacy: implementa seudonimización por época con verificación de fugas
+2251012 asr: transcribe clips con faster-whisper y diariza hablantes
+8bb23bb ocr: procesa documentos con PaddleOCR
+3219986 corpus: organiza documentos y audios
+
+== Detalle (autor, fecha, archivos) ==
+--------------------------------------------------
+commit 041bb40 · 2026-10-24 09:58 · Mirian de la Cruz Condori <330203020+miriandelacon13-ux@users.noreply.github.com>
+eda: agrega notebook 01 ejecutado, CSV finales y visualizaciones
+
+
+ tarea_2/01_extraccion.ipynb                    | 11351 +++++++++++++++++++++++++++++++++++++++++++
+ tarea_2/datos/documentos.csv                   |  2187 +++++++++
+ tarea_2/datos/fuentes.csv                      |    33 +
+ tarea_2/datos/reportes/descartes.csv           |    21 +
+ tarea_2/datos/reportes/tiempos_notebook_01.csv |    14 +
+ tarea_2/datos/transcripciones.csv              |   147 +
+ tarea_2/scripts/graficos.py                    |    53 +
+ 7 files changed, 13806 insertions(+)
+--------------------------------------------------
+commit 6ef41f2 · 2026-10-24 09:57 · Mirian de la Cruz Condori <330203020+miriandelacon13-ux@users.noreply.github.com>
+privacy: implementa seudonimización por época con verificación de fugas
+
+
+ tarea_2/datos/reportes/privacidad_epoca_documentos.csv |  26 +++++
+ tarea_2/datos/reportes/seudonimizacion_registro.csv    |  53 ++++++++++
+ tarea_2/scripts/privacidad.py                          | 193 +++++++++++++++++++++++++++++++++++++
+ 3 files changed, 272 insertions(+)
+--------------------------------------------------
+commit 2251012 · 2026-10-24 09:57 · Mirian de la Cruz Condori <330203020+miriandelacon13-ux@users.noreply.github.com>
+asr: transcribe clips con faster-whisper y diariza hablantes
+
+
+ tarea_2/scripts/07_ejecutar_asr.py |  51 ++++++++++++++++++++++++++
+ tarea_2/scripts/asr.py             |  92 +++++++++++++++++++++++++++++++++++++++++++++++
+ tarea_2/scripts/diarizacion.py     | 110 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 3 files changed, 253 insertions(+)
+--------------------------------------------------
+commit 8bb23bb · 2026-10-24 09:57 · Mirian de la Cruz Condori <330203020+miriandelacon13-ux@users.noreply.github.com>
+ocr: procesa documentos con PaddleOCR
+
+
+ tarea_2/requirements-procesamiento.lock.txt | 151 ++++++++++++++++++++++++++++++++++++++++++++++++
+ tarea_2/requirements-procesamiento.txt      |  30 ++++++++++
+ tarea_2/scripts/06_ejecutar_ocr.py          |  39 +++++++++++++
+ tarea_2/scripts/ocr.py                      | 134 ++++++++++++++++++++++++++++++++++++++++++
+ 4 files changed, 354 insertions(+)
+--------------------------------------------------
+commit 3219986 · 2026-10-23 22:14 · Mirian de la Cruz Condori <330203020+miriandelacon13-ux@users.noreply.github.com>
+corpus: organiza documentos y audios
+
+
+ .gitignore                                             |   4 +
+ tarea_2/.gitignore                                     |  35 ++++++
+ tarea_2/datos/reportes/audio_adicional_seleccion.csv   |   3 +
+ tarea_2/datos/reportes/clasificacion_documentos.csv    |  26 ++++
+ tarea_2/datos/reportes/clips_audio.csv                 |  31 +++++
+ tarea_2/datos/reportes/descartes_audio.csv             |  21 ++++
+ tarea_2/datos/reportes/fuentes_audio_commons.csv       |   8 ++
+ tarea_2/datos/reportes/fuentes_documentos_commons.csv  |  26 ++++
+ tarea_2/datos/reportes/integridad_archivos.csv         |  31 +++++
+ tarea_2/datos/reportes/validacion_audio_originales.csv |   8 ++
+ tarea_2/evidencias_ia/01.jpg                           | Bin 0 -> 378972 bytes
+ tarea_2/evidencias_ia/02.jpg                           | Bin 0 -> 402383 bytes
+ tarea_2/evidencias_ia/03.jpg                           | Bin 0 -> 381591 bytes
+ tarea_2/scripts/00_copiar_originales.py                | 100 ++++++++++++++++
+ tarea_2/scripts/00b_descargar_audio_adicional.py       |  89 ++++++++++++++
+ tarea_2/scripts/01_metadatos_commons.py                | 104 ++++++++++++++++
+ tarea_2/scripts/02_normalizar_audio.py                 | 119 +++++++++++++++++++
+ tarea_2/scripts/03_generar_clips.py                    | 238 +++++++++++++++++++++++++++++++++++++
+ tarea_2/scripts/04_metadatos_documentos_commons.py     |  81 +++++++++++++
+ tarea_2/scripts/05_clasificar_documentos.py            |  78 ++++++++++++
+ tarea_2/scripts/utilidades.py                          |  68 +++++++++++
+ 21 files changed, 1070 insertions(+)
