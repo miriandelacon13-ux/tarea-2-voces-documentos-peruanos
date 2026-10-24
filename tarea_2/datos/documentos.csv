@@ -1,0 +1,2187 @@
+id,archivo,tipo,observacion_tipo,es_mixto,fuente,fuente_url,licencia,formato_real,ancho_px,alto_px,texto_ocr,modelo_ocr,configuracion_ocr,preprocesamiento,n_lineas,n_caracteres,confianza_media,tiempo_ocr_seg,texto_referencia,epoca,politica_privacidad,anonimizado,n_reemplazos,revision_privacidad
+doc_001,doc_001.jpg,manuscrito,Manuscrito antiguo (Acta de Independencia) con numerosas firmas superpuestas.,False,Acta_de_Independencia_Peru.jpg,https://commons.wikimedia.org/wiki/File:Acta_de_Independencia_Peru.jpg,Public domain,JPEG,697,973,"69
+D i  o ie d m 
+Juan-Dalliy
+Gun Stu
+eran.Ranerte
+dehagidf
+MCnsraNegaouing
+Fo Gono
+Toi Menin Bog
+JotSoiLinergra
+mili G
+Koo?k Luva Hram ha
+AnanCachi
+And.s
+Tigh titauns
+Inephnli lixdjieve
+7
+Tronc Sa
+En ou Oilai
+C
+B
+Zrman?arareang
+nicolaErba
+2.0angsiconostivinage
+tomarKnte
+Arma
+yla Chica
+a
+as
+mon
+cewaas
+Man Hgutia
+JomyD. Ball,
+Ja Formes
+Aag
+Samile Pemara
+
+R1ma
+Gavin
+N'isene Barnico 2
+'Arl arida
+Com,Oxliade
+Y .Sear
+Man.dedandaug
+C
+yEalumiuntes",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,46,444,0.597,39.118,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,PENDIENTE_REVISION_HUMANA
+doc_002,doc_002.jpg,manuscrito,"Mixto: recibo con formulario impreso (Peruvian Telephone Company, 1895) y contenido variable manuscrito (fecha, nombre, monto); se clasifica por el contenido variable.",True,Peruvian_Telephone_Company_receipt_Lima_1895.JPG,https://commons.wikimedia.org/wiki/File:Peruvian_Telephone_Company_receipt_Lima_1895.JPG,Public domain,JPEG,1132,661," 8219
+Teléfono No.3
+PERUVIAN TELEPHONE COMPANY.
+Lima, Pee 2de 1895
+Contrata No. J07,
+RECIB1 do a fda ane Ries
+vna
+Agmirre
+la suma de ov enda a
+Soles Plata
+en 13 de Jecleo 189
+CLORAINE
+Soles
+Plate5
+14.5
+peee de faeta de dervices
+145.",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,17,232,0.8481,23.825,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,PENDIENTE_REVISION_HUMANA
+doc_003,doc_003.jpg,manuscrito,Mixto: recibo impreso (Central & South American Telegraph Co.) con campos manuscritos y timbre; se clasifica por el contenido variable.,True,Peru_revenue_stamp_on_receipt.jpg,https://commons.wikimedia.org/wiki/File:Peru_revenue_stamp_on_receipt.jpg,Public domain,JPEG,791,459,"ral & South American Telegraph Co.
+RECIBO.
+Para, parklite Ofevele
+1915
+487/45
+Ralabras,
+Tasa,
+Empleado, le
+Fechal",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,9,113,0.936,338.054,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,PENDIENTE_REVISION_HUMANA
+doc_004,doc_004.jpg,foto,"Mixto: carta manuscrita (1938) reproducida en página impresa de libro, capturada con iluminación desigual y reflejo; se clasifica por la condición de captura.",True,Inter_american_highway_Peru_document.jpg,https://commons.wikimedia.org/wiki/File:Inter_american_highway_Peru_document.jpg,Public domain,JPEG,896,1137,"CONGRESOSY CONFERENCIAS
+INTERNACIONALES
+La Oction Onferenein Interm
+PERU
+cional Americana no ssólo he de ser
+ma brillante Crntinmaeim de los
+felices e itelisentes eefreros redign
+dos hasta hy pra divigir y afion
+Zar los Wadidiomcles vinenls de srhi
+daridel Eontinentel.Por la asendemin
+historicn dl snimento fu vivimes, for
+la Valia relemnte de las delegacinies
+que la - a las goe el Gen
+recile Coneo Caing fratenal-
+abiran.
+rumbos hara la umon
+lepiritur
+imia  Preial delos
+pueblos
+ncn.
+Ame, 1 de biiemhe 1938
+OROlunwids",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,22,520,0.7789,19.559,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,PENDIENTE_REVISION_HUMANA
+doc_005,doc_005.png,impreso,,False,PENDIENTE_REVISION_HUMANA,PENDIENTE_REVISION_HUMANA,PENDIENTE_REVISION_HUMANA,PNG,1087,1643,"TRADICIONES
+PERUANAS
+POR
+RICARDOPALMA
+Miembro Correspondicnte de las Reales Academias Española  de la Historia,
+y Director de la Biblioteca Nacional de Lima
+TOMO H
+BARCELONA
+MONTANER Y SIMÓN, EDITORES
+CALLE DE ARAGON, NÚMS. 309 Y 311
+1893",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",canal alfa opaco descartado -> RGB,11,238,0.9715,23.875,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,PENDIENTE_REVISION_HUMANA
+doc_006,doc_006.png,impreso,,False,PENDIENTE_REVISION_HUMANA,PENDIENTE_REVISION_HUMANA,PENDIENTE_REVISION_HUMANA,PNG,1099,1560,"8
+TRADICIONES PERUANAS
+Y luego, ¿qué provecho, en buen análisis,
+Oh! Dejadme vivir con las fantásticas
+saca la sociedad de que á un malsin
+ó reales memorias de otra edad,
+lo engañe una pindonga semitísica,
+y mamotretos compulsar solícito,
+dando á otro quídam el ansiado sí?
+y mezclar la ficción con la verdad.
+¿A qué nos viene usted contando algórgoras
+Y evocar á los muertos de sus túmulos,
+que á su almohada no más debe contar?
+y sacar sus trapillos á lucir,
+No estamos para lágrimas, y rásquese,
+y narrar sus historias, ya ridículas,
+mi amigo, si le pica el alacrán.
+ya serias, ya con brillo ó sin barniz.
+¿Ni qué nos va ni viene en el intríngulis
+Que en el siglo presente y los pretéritos
+de esos que dicen llenos de candor:
+siempre irán en consorcio el bien y el mal,
+– Cruzo de la existencia por el báratro
+y si en éstos de malo hubo muchísimo,
+más dolorido que el doliente Job?
+en el otro de bueno mucho no hay.
+¿No es tontuna quejarse porque un mísero
+Esta serie tercera (y tal vez última,
+encuentre, en el amor y en la amistad,
+por si no hallo más paño en qué cortar)
+escondido un almácigo de víboras?
+va á tus manos, lector, sin grandes infulas:
+Esas cosas son viejas como Adán.
+no finco en ella presunción ni plan.
+Precisamente los que vierten lágrimas
+Ni aguardo que á mis nietos algún dómine
+en el papel, en mi concepto, son
+ha de enseñar el Christus abecé
+contrabandistas del pesar, ridiculos
+en mis libros, y digan los muy titeres:
+histriones que remçdan el dolor.
+-Vaya, mucho hombre nnestro abuelo fuél
+Basta. En buena hora sigan los románticos
+Mis libros piedrecillas son históricas
+lanzando de gemidos un tropel:
+que llevo de la patria ante el altar.
+para mí, el mundo pícaro es poético,
+He cumplido un deber. Saberlo bástame,
+poco en el hoy y mucho en el ayer.
+Otros vendrán después: - mejor lo harán.
+En lo que se halla lejos, un magnético
+Líma, mayo de 1875
+hechizo encuentra siempre el corazón;
+pues dóranlo las luces de un crepúsculo
+RICARDO PALMA
+más bello que del alba el arrebol....",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",canal alfa opaco descartado -> RGB,56,2009,0.9914,54.051,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,PENDIENTE_REVISION_HUMANA
+doc_007,doc_007.png,impreso,"Periódico ilustrado antiguo (1887): papel amarillento, columnas y grabados.",False,PENDIENTE_REVISION_HUMANA,PENDIENTE_REVISION_HUMANA,PENDIENTE_REVISION_HUMANA,PNG,1550,2336,"EI DERNYLUSTRADO
+SEMANARIO ILUSTRADO PARA LAS FAMILIAS – Editores Propietarios, PETER BACIGALUPI & Co.
+AÑO I.}
+{NUM. 3.
+LIMA, SABADO ₂8 DE MAYO DE 1887.
+PRECIOS.
+Nuestro tercer graba-
+do es una bellísima fan-
+Número suelto.... 0 10 cts.
+tasía destinada à servir
+Entregado á domi-
+de carátula á una pieza
+cilio, al més...... 0 40 »
+de música para piano,
+Al semestre......... 2 00 
+cuya impresión se halla
+Al año..…… . 3 50
+à cargo del distinguido
+profesor de dibujo y li-
+tografía Sr. Evaristo San
+Se solicitan agentes para
+Cristoval. Es un lindísi-
+uscricic cs y avisos en toda
+mo vals, escrito por el dís-
+la República.
+tinguido profesor limeño
+Casilla 173.
+Don Pedro Fernande~,
+y cuyo título «HastA LA
+""EL PERU ILUSTRADO""
+MUERTE», asi como la ín-
+dole del precioso graba-
+do que le sirve de cará-
+MAYO, 28 DE 1887.
+tula, corresponden per-
+fectamente à la compo-
+Nuestros Grabados.
+sición musical que, den-
+tro de muy pocos dias,
+se hallarà de venta en el
+La primera página de
+almacén del señor Càrlos
+nuestro número de hoy
+F. Niemeyer, calle de
+aparece con el retrato de
+Mercaderes, número 195.
+un estimable caballero, el
+Y completa el número
+distinguido diplomático,
+de nuestros grabados de
+eminente literato y poe-
+hoy, otro nuēvo tipo po-
+ta Doctor D. Pedro Paz-
+pular de la numerosa co-
+ioldăn y Unánue; miem-
+lección que poseemos y
+correspondiente de
+que seguirêmos publican-
+eal Academia Espa-
+do puntualmente cađa se-
+y uno de los más
+mana.
+los y chispeantes
+Doctor D. Pedro Paz-Soldán y Unánue.
+Contando con la be-
+res nacionales, à cuya merecida fa- América Española, han hecho justicia á | névola acogida que el ilustrado rblico
+da podria agregar nuestra pobrísi  los merecimientos de tan distinguido pe
+de Lima ha dispensado à nuestra publi-
+uma.
+cación semanal, redoblamos gu-tosos nues.
+ruano.
+s lijeros apuntes biográficos qué res- En seguida damos una preciosa vista
+tros esfuerzos à fin de consignar en los
+de él consignamos en seguida, son del Muelle y Dársena del Callao, toma-
+róximos números, retratos vistas y
+Stras ilustraciones de mérito incuestiona
+dos, en su mayor parte, de publica- da cuidadosamente de à bordo, cuyos im-
+es extrangeras que, tauto en Europa portantes detalles verán con verdadero
+ble, por ser en su mayor parte nacionales.
+en las máș cultas capitales de la interés nuestros abonados.",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",canal alfa opaco descartado -> RGB,80,2329,0.9777,87.103,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,PENDIENTE_REVISION_HUMANA
+doc_008,doc_008.jpg,foto,Documento enmarcado bajo vidrio: reflejos y perspectiva.,False,Estado_General_de_Miguel_Grau.jpg,https://commons.wikimedia.org/wiki/File:Estado_General_de_Miguel_Grau.jpg,CC BY 2.0,JPEG,5223,3482,"Nenitai
+Iluascare
+Armada del Pera.
+手手手手手手手
+ESTADO
+GENERAL
+En que, se encuentra
+en el mes de la fecha.
+Oficiales de guerra.
+Guardias Marinas.
+Municiones y artificios.
+Trasporte.
+Oficiales mayores y maquinistas.
+Armamento.
+Doames te tpulyd fseathe
+Nanar
+Ae de Egth
+af
+Pasageros
+Oeiles
+pectheank d Medcina
+
+Tropa
+seginde god
+Jetes
+Total
+Andenede y Grater
+Rapiter 
+fhe de
+de lun 1
+Dapraltates de prbia
+Gasicisa
+Clises
+Chr, sutes s
+Calafises
+Hesrot
+Mariueres
+Tul
+3faenre.
+Soldaron
+Dotación actual
+12
+62
+12
+色
+Faltan al reglamento
+Hospital
+Dimensiones y calado.
+Casco, blindages y cubierta.
+Máquinas, prineipal y accesorias.
+Járcia y arboladura.
+Velámen.
+wrylua
+de sfteure de Ihe pulg! Goon delle gonde of
+20
+3顶
+2
+Devita
+jueamite mayo
+180
+15
+ind
+LLara
+Telathr
+elonads.
+pa
+rmpedita o on el imge litade de leraic
+Jonts si enemntre mal
+reterd.
+Embarcaciones.
+Anclas y amarras.
+Instrumentos de navegacion.
+Vasijería.
+Viveres, agua y carbon.
+Drenemet Baad 
+Than toe
+差
+de I Estalla
+5ル
+行
+
+Pienes pana
+Rempees de Wlaenel
+bodias
+李手手学
+んん
+parcasins
+fan song
+Chalapa
+22
+Onelta d 250 lb
+aAgua pas
+2 dias
+grit
+Raas de respet
+30.
+22
+Cadema de 17hjuly!
+Relafe
+Darlem tomeladas
+105
+230 tonelady
+Kedandalle de fateute
+lypi de  puiy!
+Corndera
+NDQ
+Wenahtusing
+ n Dellar Arid d 1879
+Imp, del Es ado-Lima.",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,109,1276,0.7207,137.33,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,PENDIENTE_REVISION_HUMANA
+doc_009,doc_009.png,manuscrito,,False,PENDIENTE_REVISION_HUMANA,PENDIENTE_REVISION_HUMANA,PENDIENTE_REVISION_HUMANA,PNG,1644,2144,"Ins sere
+Riberalta, jumio 10 de 1912.
+Sener don Ricardo Palma
+m
+Livng
+wpa
+Mi respetado g querido maestro:
+ 
+Desde estao apartades co-
+Dairouto and
+marcas deses manifestar a al. el profindo dolor que he
+MD
+pentido al informarme que eapiritus estrachis, neugativos,
+
+lano nel
+0
+han arrancado a' ll, por la fuerza, de la casa que l reedi-
+
+Jicara,-parm honra die Periis- a coata de tants esfuerzos
+
+g sacrificios.
+Jamas hubiera ereido que mandatario
+
+algimo se atreviera a turbar il posiego que aual ningimo
+
+Tiene l. merecido, deskues de tanths aios de labor patrio-
+tica, feeuida g benefiia; Jamas hubierm peneado que
+
+hombre algimo osara faltar las canas de tan insigue lite-
+
+rato, canas resketadas xienmpre per profeirs g extraños, por
+aotind
+
+jovenes g crejis, por ruicos g pobres.
+ndne
+Desde 1888, que se findi la Sociedad Geografin
+
+g. oorpo rm departament en la parti alta de la Riblioteen
+
+Nacimal, es decir quatro anes desones que ab, la hiciera
+
+renacer con sus esfuerzos, reputacion influencias, he si-
+aJ ay
+do puedo tecir testigo de su innmenen labor de su asidui
+
+dad, de sus fatigas.
+Todo su tiempo era absorbido por",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",canal alfa opaco descartado -> RGB,47,1130,0.5952,64.613,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,PENDIENTE_REVISION_HUMANA
+doc_010,doc_010.png,impreso,Mecanografiado (máquina de escribir) con firma manuscrita; domina el texto mecánico.,False,PENDIENTE_REVISION_HUMANA,PENDIENTE_REVISION_HUMANA,PENDIENTE_REVISION_HUMANA,PNG,1633,2161,"R。 P。- 2.
+vientes votos por la felicidad de sus dignos y estimables hijos, y
+porque permite la Providencia que le cuerda de que U. me hablaba
+ahora dos años, en amebilísime carte que agradezco y conservaré co-
+mo preciado tesoro, se prolongue por algunos lustros més, pere hon-
+ra de las letras patrias y consuelo de los que de veres le quieren.
+Con el cariño y respeto de siempre, quedo muy suyo, obse-
+cuente amigo y
+S.S.",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",canal alfa opaco descartado -> RGB,9,423,0.9424,40.48,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,PENDIENTE_REVISION_HUMANA
+doc_011,doc_011.jpg,foto,Texto en relieve sobre placa de monumento.,False,Carta_de_Felipe_Santiago_Salaverry_a_la_seva_esposa_abans_de_la_seva_mort_a_Arequipa.jpg,https://commons.wikimedia.org/wiki/File:Carta_de_Felipe_Santiago_Salaverry_a_la_seva_esposa_abans_de_la_seva_mort_a_Arequipa.jpg,CC BY-SA 4.0,JPEG,2368,3156,"CARTA ESCRITA PORELGENERAL
+FELIPESANTIAGOSALAVERRY
+HORASANTESDESUMUERTE
+AREQUIPA,FEBRERO17-1886
+MI QUERIDA
+ESPOSA.
+DENTRO DE POCOS MOMENTOS VOY A SER
+PAGADO POR LAS ARMAS, Y TE DEBO EL ULTIMO
+ADIOS:ES ESTE.
+TU CONOCIAS BIEN MI CORAZON,Y NO PUEDES
+DUDAR DE QUE MIS INTENGIONES, EN TODA MI VIDA
+PUBLICA, HAN SIDO MUY PURAS: ELLAS SE HAN
+DIRIGIDO A LA FELICIDAD YA LA GLORIA DE MI PAIS
+NO OBSTANTE,EL DESTINO ME PREPARABA UN
+TERMINO HORRIBLE:CONFORMEMONOSA EL.
+SOLO SIENTO,AL MORIR,NO HABER LABRADO
+LA FORTUNA DE LA MEJOR MUJER QUE HANACIDO
+PERO TU JUICIO,Y TU TALENTO VALEN MAS QUE
+TODO,Y ESTAS DOS BRILLANTES DOTES TE
+QUEDAN FORTIFICADAS Y MEJORADAS POR LAS
+DESGRACIAS.NO TE DEJES ENVOLVER EN ELLA
+TRANQUILIZATE CONSUELATE Y VIVE PARA MIS
+INFORTUNADOS HIJOS QUE NO TENDRAN OTRO
+APOYO.TU LOS EDUCARAS PARA LA VIRTUD Y LES
+HARAS CONOCER MIS INMERECIDAS DESGRACIAS
+HE PEDIDO PERMISO PARA HACER UN CORTO
+TESTAMENTO,QUE TE ENTREGARA MI HERMANO
+JUAN.CONSERVATE ETERNAMENTE EN ARMONIA
+CON ESTE BUEN MUCHACHO,QUE TE AYUDARA
+A SOBRELLEVARTUS PENAS.
+ADIOS QUERIDA JUANA:RECIBE EL CORAZON
+DE TU DESVENTURADO ESPOSO.
+FELIPE SANTIAGO SALAVERRY",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,33,1129,0.9771,92.905,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,PENDIENTE_REVISION_HUMANA
+doc_012,doc_012.jpg,foto,Texto en relieve sobre placa de monumento; perspectiva.,False,Carta_de_Grau_a_viuda_de_Prat_en_monumento_chileno.JPG,https://commons.wikimedia.org/wiki/File:Carta_de_Grau_a_viuda_de_Prat_en_monumento_chileno.JPG,CC BY-SA 4.0,JPEG,2736,3648,"MONITORHUASCAR.
+PISAGUA, JUNIO 2 DE 1879.
+SEÑORA
+CARMELA CARVAJAL DE PRAT
+DIGNISIMA SEÑORA:
+""UN SAGRADO DEBER ME AUTORIZA A DIRIGIRME A UD.
+Y SIENTO PROFUNDAMENTE QUE ESTA CARTA,POR LAS LUCHAS
+QUE VA A REMEMORAR,CONTRIBUYA A AUMENTAR EL DOLOR QUE
+HOY JUSTAMENTE DEBE DOMINARLA. EN EL COMBATE NAVAL DEL
+21 PROXIMO PASADO QUE TUVO LUGAR EN LAS AGUAS DE IQUI-
+QUE, ENTRE LAS NAVES PERUANAS Y CHILENAS, SU DIGNO Y VA-
+LEROSO ESPOSO, EL CAPITAN DE FRAGATA DON ARTURO PRAT,
+COMANDANTE DE LA ""ESMERALDA, FUE COMO UD. NO LO IGNORA-
+RA YA,VICTIMA DE SU TEMERARIO ARROJO EN DEFENSA Y GLO-
+RIA DE LA BANDERA DE SU PATRIA. DEPLORANDO SINCERAMENTE
+TAN INFAUSTO ACONTECIMIENTO Y ACOMPAÑANDOLA EN SU DUE -
+LO CUMPLO CON EL PENOSO DEBER DE ENVIARLE LAS PARA UD
+INESTIMABLES PRENDAS QUE SE ENCONTRARON EN SU PODER
+Y QUE SON LAS QUE FIGURAN EN LA LISTA ADJUNTA. ELLAS LE
+SERVIRAN INDUDABLEMENTE DE ALGUN PEQUEÑO CONSUELO E
+MEDIO DE SU DESGRACIA Y POR ESO ME HE ANTICIPADO A RE
+MITIRSELAS.""
+""REITERANDOLE MIS SENTIMIENTOS DE CONDOLENCI
+LOGRO,SENORA,LA OPORTUNIDAD PARA OFRECERLE MIS SERV
+CIOS, CONSIDERÁCIONES Y RESPETO CON QUE ME SUSCRIBO
+UD. SEÑORA, MUY AFECTISIMO Y SEGURO SERVIDOR
+MIGUELGRAU
+LA-CREACION-Y-COMPOSICION
+ARTISTICA-DEESTEMONUNENTO",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,29,1228,0.9869,125.882,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,PENDIENTE_REVISION_HUMANA
+doc_013,doc_013.jpg,manuscrito,Manuscrito en lengua awajún (no español) con algunas palabras en español.,False,Carta_en_idioma_awajun_de_[AUTOR_SEUDONIMIZADO].jpg,https://commons.wikimedia.org/w/index.php?curid=141498872,Public domain,JPEG,960,960,"25De0ciabiadal2014
+[NOMBRE_1].
+nunash ashijuk
+yu papa jujuma agajan auatajama antakta
+payasma fuyash
+aa
+tsaskugtusta
+avaz atsamai [NOMBRE_2]
+yatsujun sega
+Rasai nouiambratinia taa aa ni
+tajamaimina
+embratiniah tata nuas dakaai  dos
+mina promocion
+1:corta ina.
+[NOMBRE_3] [NOMBRE_4] jujui
+y:cajetilla cigarra
+3 ano nuavonak inapkeaktatjai yna tabmu
+2:botella zxxx.
+pá [NOMBRE_5] yetsug
+1 par zapatilla.
+[NOMBRE_6] nui [NOMBRE_7]
+umin ukukin cuakaegagna anentaimsan shig
+I par median.
+akemsema dekapeajai fujash papa nampufehauai jujunak papa e
+anui Huampami tasai año nuvo Fiestamugmesh i mina umba
+jai uam Fetamaimaikam samaaum
+ancashkumeshka
+mputchaurai mianug Huampami tatsaig
+papa sesajame
+erstamRugminig [NOMBRE_8] minai umbas adaus
+tusan mino pro
+vea,aB
+ditashkam wak.
+m ndamn
+auetugte eve
+istu mina dukashjan mina saig [NOMBRE_9] akiktatjan
+w aidan Kampamjai, yudt, Levis,Menisonian
+utrgchat ayutar
+ham, [NOMBRE_10] nustu Kumpamjai mina apag,ramon,mina
+segajame.
+ H, ,  u
+bugon casakaja
+umpampai pño nuavo atata nui mina yatsug
+juguna awetajo
+uampami paja nonash ashi Rumpamjime mina
+dijas takastib",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,47,1167,0.8276,36.069,PENDIENTE_REVISION_HUMANA,contemporáneo,completa (NER + regex),True,10,PENDIENTE_REVISION_HUMANA
+doc_014,doc_014.jpg,manuscrito,,False,AR-ANH-EF-Secc.II-53-2.jpg,https://commons.wikimedia.org/wiki/File:AR-ANH-EF-Secc.II-53-2.jpg,Public domain,JPEG,2486,3458,"Vn. D Joming Frictan
+Vrallyua Cnuarze 2de1822
+Mi mefon Amiga inlayra d van
+igiheohn a
+.qe entenase ed conidert las ventafar qvamor
+à perer i paxalicamor mista movimientorns
+do un momento g vitor tantor inidentun
+Ven za martro Erotecton con nrt delibexa
+ciomes aon la rincuntancia g i pendemor un mago
+as tan cocelento g? poca voe  preienta tal
+ves lo peaderomo rempe.
+Aio mi anigo, Digamev. iea
+alviade dla teniana y mare to aru Dedarins
+anrigo
+Mnchar coas ami Vicaris y Echenigna",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,15,480,0.6903,84.705,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,PENDIENTE_REVISION_HUMANA
+doc_015,doc_015.jpg,manuscrito,,False,AR-ANH-EF-Secc.II-64.jpg,https://commons.wikimedia.org/wiki/File:AR-ANH-EF-Secc.II-64.jpg,Public domain,JPEG,3493,4438,"Suniti 12 me Agosk vu1840
+Mi reppetabe hal yPadrino.
+la diventiria a. he lontraido en mi confi.
+nacion de tbaneay, me he Lituado in este
+ba, me sena pernitid Eajar, a bubambay
+No me canvare in zecomemdan a to, In
+honrsades ul comandante tiabima-Aste Jege
+eh katallon lmeo- t basin al, enta
+indicacion, ceo eumplin con lo pusticin,
+Sesea a t. may buena Labnd in
+decidids aligads e inbariable dexvidon
+Ge1.0",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,12,405,0.7698,129.355,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,PENDIENTE_REVISION_HUMANA
+doc_016,doc_016.jpg,manuscrito,,False,AR-ANH-EF-Secc.II-69.jpg,https://commons.wikimedia.org/wiki/File:AR-ANH-EF-Secc.II-69.jpg,Public domain,JPEG,3544,4464,"$30
+
+Sr I.n. Rodignuer R.
+Lamtayeque
+Moi querids Ir Frefecto:
+El Ir Pedro Adolfo Espinoza,
+despes de conversar conmigo, regresa a Mbotu.
+pe lugar de su pesidencia para ocuarse de us a
+suntos particubares.
+Recomiéndolo mui especialmente a su
+dietinguida considevacion i a la de sus auto-
+ridades subaltermas.
+Aictuosamente singe
+lierola",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,14,335,0.8072,119.561,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,PENDIENTE_REVISION_HUMANA
+doc_017,doc_017.png,manuscrito,"Mixto: tarjeta manuscrita (Ricardo Palma, 1912) con transcripción impresa añadida al pie; la parte impresa puede favorecer al OCR.",True,Tarjeta_de_Ricardo_Palma_a_Luis_Antonio_Eguiguren_Escudero_24_octubre_1912.png,https://commons.wikimedia.org/wiki/File:Tarjeta_de_Ricardo_Palma_a_Luis_Antonio_Eguiguren_Escudero_24_octubre_1912.png,Public domain,PNG,1872,2080,"Agradenco muy sineeromenls
+ ming, mio Untomin Eginiguren al
+infimits gut, rnmanth b and pooitle, Gavo-
+roxia con in oprcita slite aest
+Merafhores, 2hode Oetibre de/912.
+Tarjeta dirigida a Luis Antonio Eguiguren por Don Ricardo Palma:
+""Agradezco muy sinceramente la fina atención de mi joven amigo
+Luis Antonio Eguiguren al obsequiarme dos folleti tos cuya lectura
+haré próximamente, y le estimaré infinito que, cuando sea posible,
+favorezca con su ofrecida visita a éste su valetudinario amigo""
+Ricardo Palma
+Miraflores, 24 de Octubre de 1912.",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",canal alfa opaco descartado -> RGB,12,543,0.9003,43.752,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,PENDIENTE_REVISION_HUMANA
+doc_018,doc_018.jpg,foto,Documento en vitrina: reflejos y perspectiva.,False,Canciller_inaugura_exposición_del_centenario_del_retorno_de_Tarata_al_Perú_-_54778280176.jpg,https://commons.wikimedia.org/wiki/File:Canciller_inaugura_exposici%C3%B3n_del_centenario_del_retorno_de_Tarata_al_Per%C3%BA_-_54778280176.jpg,CC BY-SA 4.0,JPEG,6192,4128,"B-335
+Protocolo de Arbitraje
+sizstuanalumoD
+A
+/ ma, 23 de agosto de 1922.
+Reunidos en Wáshington, D. C., en conformidad a la invitación del Gobierno de los Estados
+Pasese al Congreso Nacional para los efectos
+Unidos de América, para procurar la solución de la larga controversia relacionada con las
+de la atribución 18  del articulo 83: de la Constitu
+disposiciones no cumplidas del Tratado de Paz, de 20 de octubre de 1883, los infrascritos,
+en representación del Perú y de Chile, a saber:
+cion de la Republica. Registrese.
+Don Melitón F. Porras y don Hernán Velarde, Enviados Extraordinarios y Ministros
+salomón
+Plenipotenciarios del Perú en Misión Especial; y
+Don Carlos Aldunate y don Luís Izquierdo, Enviados Extraordinarios y Ministros
+Plenipotenciarios de Chile en Misión Especial;
+después de canjear sus respectivos plenos poderes, han acordado lo siguiente:
+Artículo 1°.—Queda constancia de que las únicas dificultades derivadas del Tratado
+de Paz sobre las cuales los dos Países no se han puesto de acuerdo, son las cuestiones que
+emanan de las estipulaciones no cumplidas del artículo 3° de dicho Tratado.
+Artículo 2°.—Las dificultades a que se refiere el artículo anterior serán sometidas al
+arbitraje del Presidente de los Estados Unidos de América, quien las resolverá sin ulterior
+recurso, con audiencia de las Partes y en vista de las alegaciones y probanzas que éstas
+presenten. Las plazos y procedimientos serán determinados por el Arbitro.
+Artículo 3°.—El presente Protocolo será sometido a la aprobación de los respectivos
+Gobiernos y las ratificaciones serán canjeadas en Wáshington, D. C., por intermedio de
+los Representantes diplomáticos del Perá y de Chile, dentro del plazo máximo de tres meses.
+Firmado y sellado en doble ejemplar, en Wáshington, D. C., el veinte de julio de mil
+novecientos veintidós.
+M
+Heman Sla
+Gae Mdun",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,33,1850,0.9158,179.616,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,PENDIENTE_REVISION_HUMANA
+doc_019,doc_019.jpg,foto,Panel de exposición en perspectiva con textos de distintos tamaños.,False,Canciller_inaugura_exposición_del_centenario_del_retorno_de_Tarata_al_Perú_-_54778614075.jpg,https://commons.wikimedia.org/wiki/File:Canciller_inaugura_exposici%C3%B3n_del_centenario_del_retorno_de_Tarata_al_Per%C3%BA_-_54778614075.jpg,CC BY-SA 4.0,JPEG,5688,3792,"Mocolo de Arbitr
+os en Wáshington.
+América, pa
+tación
+0
+PERÚ
+Ministerio
+de Relaciones Exteriores
+Momen
+proce
+serár
+del Pe
+ejempla.
+LA
+dera que ahora abre sus pliegues amparándose en la cindad de Tarata
+estta el instante en que las señoras Wells de Alvares
+ntregaron al Presidente de la M
+CRONICA
+OFICINAS Y TALLERES: PANDO Nám 758-TELEFONO Núm. 2106-APARTADO Nm 1087
+DIARIO ILUSTRADO POLIT ICO-INDEPENDIENTE E INF ORMATIVO
+LA
+MANIFESTACION PATRIOTICA DE AYER
+LIMA. PERU
+ANO XII
+MILRCOLE
+2
+SETIEMBRE 1925
+4832-Precio: 5 cts.
+Mido
+MEJOR
+Mido
+RELOJ
+PORSUPRECID
+100
+Del retorno de
+Tarata al Perú
+años
+GRAN ACONTECIMIENTO DE LA SEMANA
+REINTEGRACION DE LA PROVINCIA DE TARATA
+LA
+morando la Reincorporación al Se-
+Patria de la Provincia de Tarata
+1
+los Planteles de Instrucción se i",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,44,775,0.9722,171.176,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,PENDIENTE_REVISION_HUMANA
+doc_020,doc_020.jpg,foto,Documento en vitrina: reflejos fuertes.,False,Canciller_inaugura_exposición_del_centenario_del_retorno_de_Tarata_al_Perú.jpg,https://commons.wikimedia.org/wiki/File:Canciller_inaugura_exposici%C3%B3n_del_centenario_del_retorno_de_Tarata_al_Per%C3%BA.jpg,CC BY-SA 4.0,JPEG,6014,4011,"tesr   pi d p e  ,  t
+Los euari s, Agstn mwards, en representastdn de
+la Sopdbliom de Chile, debidamente faoultado al efeoto per el
+à alvo us cors oe l e p e poésoo  le
+Presiaente de la Repdbliea, y mnuel de Freyre y Santander, en
+provinola de Tarate, segdn la Demrosoién Foltson vigente e
+representasión de la Repdblioa del Perd, debidamente autorisa-
+2o de Ostubre de leos, quede pendiente hasta pue le Comletén De-
+do por el Presidente de la Republioa, reunidos en Tarata, de-
+marondora fige la linea norte de le pxovinota so Taons, ss son-
+Jan constancis en el presente dooumento que, en sumplimiento
+formidad con la Opinión y Leudo Arbitral.
+de lo resuelto en la Opinión y Fallo del Arbitro on el Arbitra-
+Por su parte Chile, también sin menoscabo de la reser-
+Je entre la República de Chile y la Republica del Perá relativo
+va referida, se abstiene de hacer comentario a la deolaración
+a las cláusulas no cumplidas del Tratado de Paz de 2o de Octu-
+del Perd, manteniendo en toda su integridaa los derechos que le
+bre de lsss y del Protocolo y Acta Complementaria, susoritos
+correspondan.
+en Washington el 20 de Julio de 1922, 1a República de Chile ha-
+Firmado en duplicado en la ciudad de Tarata el lo de
+ce entrega en este acto á la República del Perú, que recibe, el
+Setiembre de 1925.
+Me.de.Frupre.8
+territorio de Tarata comprendido en la linea a que se hace re-
+ferenoia más abajo.
+Estando pendiente del informe de la Comisión Especial
+de Lfmites y de la resolución del Arbitro la detemminación del
+1fmite definitivo entre la provinoia de Tarata y los territorios
+de aona y Arioa en onfomidad al Laudo, se deje constanota de
+que e2 1faite rijade pare la astual etreg ce territorte de la
+proé a de Ta e Ia a ce een éata easi e mren
+me deseripd e ee atee rtete 7 sue a ln hoe hare
+
+1
+a  
+
+
+
+
+",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,42,1800,0.7282,416.76,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,PENDIENTE_REVISION_HUMANA
+doc_021,doc_021.jpg,foto,Fotografía de una pantalla que muestra un texto impreso: moiré y perspectiva. El archivo es PNG aunque tiene extensión .jpg.,False,PENDIENTE_REVISION_HUMANA,PENDIENTE_REVISION_HUMANA,PENDIENTE_REVISION_HUMANA,PNG,530,832,"HIMNO DE CHANCHAMAYO
+CORO
+Chanchamayo, el ""PERÚ"" te Proclama
+Corazón de la ""Selva Central""
+Este canto es el alma del Pueblo
+Que hoy te Jura Trabajo y Lealtad
+ESTROFAS
+III
+En las ciencias, deportes yartes,
+En tus bosques, tus ríos y campos,
+Chanchamayo con fe triunfarás;
+las riquezas están por doquier
+aportando talentos que ,
+y el café que en tus tierras germina,
+en un mundo unido en paz
+es sin duda en el mundo el mejor,
+Es crucial ensalzara conciencia
+los valores de la identidad;
+es la Virgen de las Mercedes
+la patrona que exalta la fe;
+pues la esencia es el sello sagrado,
+que enseña a pensar con honor
+y el Cerro de la Sal recuerda,
+IV
+a una raza de temple inmortal.
+II
+Tu paisaje de excelsa belleza
+es poesia, turismo y colon
+A los héroes que hicieron tu historia
+y la muestra de que el Paraíso
+el Divino en tu suelo creo
+y lograron un pueblo ejemplar;
+Fascinados por tantas grandezas
+nuestras palmas honores y glorias,
+que presagian un granporen
+prometiendo tus huellas seguir.
+Gritaremos a todos los vientos
+Hoy avanzas gallardo en el tiempo,
+Chanchamayo!, Miamor erestu
+promoviendo la acción cultural;
+convencido con el conocimiento,
+es el dogma de la libertad.
+LAMERCED
+[EMAIL]
+w: 500 × 762 pixels. Other resolutions: 250 × 381 pixels / 330 × 503 pi",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,45,1273,0.965,86.675,PENDIENTE_REVISION_HUMANA,contemporáneo,completa (NER + regex),True,1,PENDIENTE_REVISION_HUMANA
+doc_022,doc_022.jpg,impreso,,False,Acta_de_Creación_de_los_Símbolos_para_el_Distrito_de_Mache_-_Perù.jpg,https://commons.wikimedia.org/wiki/File:Acta_de_Creaci%C3%B3n_de_los_S%C3%ADmbolos_para_el_Distrito_de_Mache_-_Per%C3%B9.jpg,CC BY 4.0,JPEG,1273,1600,"ACTA DE OFICIALIZACIÓN DE LOS SÍMBOLOS PARA EL DISTRITO DE
+MACHE.
+CONSIDERANDO:
+Que, de conformidad a lo establecido en el Art. 194° de la Constitución
+Política del Perú, concordante con el articulo Il del Título Preliminar de la Ley
+Orgánica de Municipalidades Ley N° 27972, las Municipalidades son entidades
+básicas de la organización territorial del Estado, y gozan de autonomía
+política, económica y administrativa en los asuntos de su competencia.
+Que, la creación de los símbolos para el distrito de, Mache tienen como
+finalidad u objeto rescatar y valorar los aspectos culturales a través de su
+legado histórico, socio económico y político; los mismos que serán iconos de
+identificación y de unión de todo el pueblo Machino de nacimiento y de
+corazón.
+En este contexto, debemos precisar que por iniciativa del [NOMBRE_16]
+(primer regidor) Prof. [NOMBRE_11] se promueve y
+aprueba el proyecto denominado ""Creación de los Símbolos para el distrito de
+Mache"", el mismo que ha sido elaborado por la Gerencia de Desarrollo Social,
+aprobado por Acuerdo de Consejo N° o61- 2o15 MDM, de fecha 05 de octubre
+2015 y firmado por el alcalde [NOMBRE_12] con
+Resolución de Alcaldía N°331-2015 al MDM.
+POR CUANTO:
+Siendo aprobada las bases para el Concurso Público ""Creación de los
+Símbolos para el distrito de Mache"", con Resolución de Alcaldía N° 32o-2o15.
+PRIMERA ETAPA con fecha o5 octubre 2o15, se acuerda desarrollar el concur-
+so denominado; Concurso Público ""Lema para el Distrito de Mache"" acto que se
+realizó en la fecha 18 de diciembre del año 2o15, en donde resulto como
+ganador, el LEMA: ""MACHE, AMISTAD, BELLEZA Y CULTURA"" del autor Dr.
+[NOMBRE_13].
+SEGUNDA ETAPA con fecha 14 octubre 2o15, se acuerda desarrollar el
+concurso denominado; Concurso Público ""Creación de Escudo y Bandera para
+el Distrito de Mache"" acto que se realizó en la fecha 27 de febrero del año 2o16,
+en donde resulto como ganador: ESCUDO DEL DISTRITO DE MACHE la
+propuesta presentada por la señorita [NOMBRE_14] y
+BANDERA DEL DISTRITO DE MACHE la propuesta presentada por la señorita
+[NOMBRE_15].
+Estando a lo expuesto, contando con el visto bueno de asesoría legal y en
+conformidad con la Constitución Politica del Perú y las facultades dadas por el
+Art. 20 inciso 6 de la Ley Orgánica de Municipalidades N° 27972;",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,38,2374,0.9943,214.289,PENDIENTE_REVISION_HUMANA,contemporáneo,completa (NER + regex),True,6,PENDIENTE_REVISION_HUMANA
+doc_023,doc_023.jpg,impreso,,False,Acta_de_Creación_de_los_Símbolos_para_el_Distrito_de_Mache.jpg,https://commons.wikimedia.org/wiki/File:Acta_de_Creaci%C3%B3n_de_los_S%C3%ADmbolos_para_el_Distrito_de_Mache.jpg,CC BY 4.0,JPEG,1273,1600,"SE RESUELVE:
+.- Artículo 1°- RECONOCER como lema ganador en el Concurso Público
+Creación del Lema para el Distrito de Mache: ""MACHE, AMISTAD BELLEZA Y
+CULTURA"" del Autor DR. [NOMBRE_13], como Lema
+Oficial del Distrito de Mache, con Resolución de Alcaldía N° o18-2o16 MDM.
+.- Artículo 2°- RECONOCER como símbolo Oficial del Distrito de Mache, EL
+ESCUDO que en concurso público ha obtenido el primer puesto y cuyo anexo
+en diseño forma parte de la presente resolución; propuesta presentada por la
+Señorita [NOMBRE_14] y ratificado como símbolo g
+anador mediante Resolución de Alcaldía N° o9o-2o16 MDM.
+.- Artículo 3°- RECONOCER como símbolo Oficial del Distrito de Mache, LA
+BANDERA que en concurso público ha obtenido el primer puesto y cuyo anexo
+en diseño forma parte de la presente resolución; propuesta presentada por la
+Señorita [NOMBRE_15] y ratificado como símbolo
+ganador mediante Resolución de Alcaldía N° o91-2o16 MDM.
+.- Artículo 4°- OFICIALIZAR Y PRESENTAR en ceremonia pública el día o7 de
+marzo 2o16 los símbolos que identificaran nuestro distrito, en la plaza de
+armas de Mache con ceremonia especial.
+.- Artículo 5°- PRECISAR
+- [NOMBRE_18] oI: RECONOCER al SR. [NOMBRE_17] como autor y
+com [NOMBRE_19] MACHE.
+-Inciso o2: OFICIALIZAR, las sagradas notas musicales compuestas por DON
+[NOMBRE_17] las mismas que se venían entonando desde el año
+2oo8 fecha de reconocimiento oficial por la MDM.
+.- Artículo 6°- DISPONER las acciones administrativas legales que correspon-
+dan para el registro y formalización de los símbolos para Mache.
+FIRMADO: por el Alcalde [NOMBRE_12] con
+Resolución de Alcaldía N° 092-2016 de fecha 04 de Marzo 2016.",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,28,1731,0.9894,99.542,PENDIENTE_REVISION_HUMANA,contemporáneo,completa (NER + regex),True,8,PENDIENTE_REVISION_HUMANA
+doc_024,doc_024.jpg,impreso,"Mixto: tarjeta impresa (Policía de Lima, 1921) con relleno manuscrito minoritario; domina el texto impreso.",True,Targheta.jpg,https://commons.wikimedia.org/wiki/File:Targheta.jpg,Public domain,JPEG,1260,995,"POLICIA DE LIMA
+TARJETA DE CIRCULACION
+Los Agentes de Policía y de la fuerza
+1921
+pública permitirán circular libremente la per-
+sona y el carruaje del
+eirr Capitan di mavis Ernest Bur-
+zagli bomandante dul brace ""libia
+iembro de la Emba fral Italiana
+y cortar filas si no hay impedimento de fuerza mayor.
+El Prefecto de Lima
+osnme
+Esta tarjeta es intranalerible",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,13,362,0.8924,35.669,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,PENDIENTE_REVISION_HUMANA
+doc_025,doc_025.jpg,impreso,"Mapa impreso (1871): texto escaso, disperso y de tamaño variable; imagen de ~93 MP.",False,Mapa_Del_Peru.jpg,https://commons.wikimedia.org/wiki/File:Mapa_Del_Peru.jpg,CC0,JPEG,7962,11698,"80
+78
+81
+79
+77
+76
+83
+82
+75
+74
+73
+84
+72
+71
+70
+S.R
+NUE
+VoldanSietebocas
+OSA
+Cabode SLorenzo
+Dueved
+Montecristi
+PORTOVIE.JO
+Ambato
+I.s
+E
+L.Yand
+Cuiyacus
+Balxan
+X
+PicoLlanganate
+Curarai
+GRANADA
+Salto de Capati
+Rio Apaporis
+Jipijapa
+乐
+Mocha
+L. Bombonaza
+VinceSie
+Cotimes
+Rio Putuma
+Aguar
+Chimbonazo
+Rio
+RIOBAMBA
+I. Salango
+L.Chiripunos
+Napo
+R
+Mazanhas
+Rio Yapurá
+Babahoyo
+Guaranda
+ptaSalango
+ie
+PieoAltar
+Canelos
+e
+SnPedro
+I. Iuris
+Is Curarayes
+L.Yuturi
+Pindo
+Baba
+Bombonaza
+Guamote
+Manglar
+Rig
+求
+2
+GUAY AQUIL
+Volcan Salioai
+Rio
+.Palora
+1. Simigayes
+Indios Encabellados
+2
+Ensenadade StaElena
+Alausi
+Chongon
+Punta de Sta Elena
+Curarai
+O
+L.SunacSuñac
+Indios Curijies y Payaguas
+StaElena
+I. Upano s
+Cone
+I. Andoasy Pinche.
+pta Carnero
+Chandui
+Andoas
+L.Lagarto
+Yacon
+Morro
+儿
+Rio Putumayo
+Guscal
+Macas
+e
+Mautas
+L.Culebrilas
+pta Sandi Puna
+Indios Abiquiras
+CUENCA
+
+E
+U
+DOR
+Canal del Morr
+0
+0
+R
+L.Gliapa
+TERRITORIO
+Rio
+Pasaje
+PieoAleuquiroRio
+OCUPADO
+Indios Ore jones
+3
+D
+Indios Mazanes
+3
+ptaSalinas
+A
+Morona
+POR
+EL
+Ia Sta Clara
+Jivaros
+M
+Indios
+S. Antonio
+I. Chapas
+Mac
+Rio Napo
+PptaArenas
+L.Chimano
+A
+Paute
+L.Sachacocha
+BRASIL
+Bahia de Túmb
+StaRo
+Is Simbayes
+Indios Iquitos
+Pebas
+I.Roamainas
+Nabon
+Punta Malpelo
+Iaguas
+Indios Tiqunas
+I. Moronas
+Nuevo
+POR EL
+Zarrun
+Zaparros
+Oran
+Tumbez
+I. Ticunas
+Loreto
+ECUADOR
+Malpaso
+Rio
+Zaragu
+Tigre
+Punta de Picos
+Tumbex
+isne
+Gualaquisa
+L.Pucacocha
+IQUITOS
+LOJ
+L.Urinuñuno
+Isla
+BocadePan
+Indios
+Cacao
+工
+AMAZONAS
+Punta de Sal
+4
+Zamoras
+Indios Uchucas
+Indios Omaguas
+RIO
+I. Rond
+L.Hatuncocha
+Rio
+.5
+Omaguas
+L.deCamar
+Tabatinga
+CaboBlanco
+Mancor
+Vameos
+工
+Castilla
+L.Curante
+Cocamas
+Ia Alamaca
+0
+Pongo de Manseriche
+Indios
+Yavari
+urato
+Nauta
+Suyo
+Rio
+Punta Talara
+PampaLarga
+ce
+Pongo Huaracayo
+Indios Tucales
+San Rejis
+0
+AYAVACA
+Lancones
+RIO
+Ralanda
+Jambul
+PongodeEscurrebragas
+MARANON
+Amotape
+uipira
+S
+Querocotillo
+Urarinas
+Parinari
+Rio
+la TamboGrande
+Pongo de Cumbinama
+Rio de
+Cahuapan
+Huaea
+as
+Frias
+SaYgnacio
+I. Aguar
+5
+Colan
+TO
+E
+5
+Cha
+Taco
+Indic
+Tecuay
+Yapátera
+HUANGABAMBA
+Chunchanga
+PuntaPaita
+Congora
+Laguna
+PAIT
+PIURAieu
+Cumbicus
+OA
+reros
+OMorro
+Chirinos
+IslaFoca
+tipas
+Cerro de la
+PuntaFoca
+I
+Perico
+Silla de Paita
+Sta
+Cruz
+MOYOBAMB
+Catacaos
+Sondor
+Tabaconas
+Salitralo
+oCharape
+8
+Tomemenda
+Chirquilla
+BALZAPUERTO
+Tortolitas
+Sechura
+laymaca
+Sallique
+Rioja
+Habana
+JAEN
+Quinjalca
+Bahia de Sechura
+Soi
+ritor
+Bagua
+Yurimaguas
+Sipasbamba
+axan
+Punta Pisura
+Colasaio
+Cascajal
+0
+Tamalca
+S.Geronimo Vent
+Punta Nonura
+Choros
+Yamon
+C
+Punta Aguja
+Olmos
+SCarlos
+6
+6
+Punta Falsa
+OLonya
+LAMUD
+Querocotillo
+Soloco
+Monte Yllesca
+Motupe
+Pion
+Sal
+as
+OChiliquin
+Jabaloso
+ocotaO
+chenoCulervoo
+Tacabanba Conila
+CHACHAROYAS
+C
+I. Remos
+Jayanca
+Qcumalo
+REG
+Huambos
+7
+CHOTA
+Magdalon
+Lamas
+Cochabam
+I. Lobos de Tierra
+Mochunit
+harca
+Colcamar
+tajeStaCruz
+Bamb
+Morrope
+Ferren
+StaTómas
+S
+OJalea
+TARAPOT
+LAMBAYEOUE
+Poludo
+H
+Hualgayoe
+Rio
+Sarayacu
+Chongollape
+CELENDIN
+①
+Chap
+S
+y Pongo de Aguirre
+SANJOSE
+ICLAYO
+s.MiguelOfileate
+Leimebamba
+Balzashutti
+Pimentero
+huco
+Lana
+Niepos
+Morro de E ten
+StaCatalina
+S.Greoprio
+Encanada
+Eten
+7
+7
+S
+Ruix
+I. Lobos de Afuera
+CAJAMARCA
+Jacanora
+Cherrepe
+Juancui
+eali
+oitos
+DE
+LOS
+P
+tade Zaña
+Guadalu
+Cajanarquilla
+PuebloNue
+L
+CAJABAMB
+Ensenada Pacasmay
+Jequetepeque
+6
+Guzmango
+Sartibamba
+Pachiza
+Pacasmay
+Say
+Pue
+Contamaza
+HUAMACHUCO
+mac
+OPataz
+ptaArca
+naSAN PEDRO
+Vatle
+Gascas
+PARCO
+Indios Hi
+Rio
+Malal
+nioo
+OTUZCO
+Huailillas sion
+Ascope
+Rada Mala
+brigo
+Santia
+cabia+
+Ruldibyyo
+IM
+Indios Casibos
+Rio
+Brujo
+B
+ooMollepata
+do de la Campana Q
+Salbo
+8
+8
+Pallasca
+Yaoar
+HU
+ANCHACO
+Carabamba
+Tocache
+B
+S
+U·E
+Ouiches
+Tayabumba
+S
+cabamba
+TRUJILLO
+RMoche
+Huacrachuco
+Uchixa
+Indios
+Cabanao CORONA
+OSihuas
+Guanape
+TaucaO
+Llama
+Morro de Guañape
+LlappoO
+OLapa
+Virú
+Yuramarca
+E
+POMABAMB
+Islas de Guañape
+Chao
+CARAZ
+Cholonos
+Rio
+Bartolomé de Chao
+Macate
+Indios Pilcos
+pta de Chao
+Huailas
+Mato
+Isla de Chao++
+Yungai
+IHuata
+Lacramarca
+Marañon
+Ite Viuda+
+Pueblotibre
+Santa
+Bahia de Santa
+9
+9
+Ite Cois-Cak+
+Chimbote
+Carhua
+Lhumpa
+Rio
+工
+Huaca
+bamba
+Pamparomas
+Tingo Maria
+Samanco
+E
+SLutsO
+Pachitca
+Vepeña
+Yanga
+BaSamanco
+Liamellin
+Moro
+Chacas
+It. Tortuga
+Campana de
+Chavin
+HUARAZ
+IteWiuda+
+OHUARI
+IteRocaNegra
+Samanco
+Monzon
+ie
+Bade Casma
+Singa
+Chinchavite
+CoMonon
+nuquvanva Chinchao
+Llata
+Recuai
+Chontaquiros
+PtaColinaRedonda
+Casma
+N
+OpachChupan
+Pariacoto
+AGUAMIR
+Pta Mongoncilla CASMA
+Muna
+Chaving
+yanuco-Viejo
+Ites Cornejos
+H
+AstaMariadel
+Indios Moscos
+Marca
+Chiquian
+1
+Culebras
+Chavinillo
+PtaCulebras
+TiellosHuallanca
+HUANUCO
+10
+古
+10
+Cajaehi
+Mairo
+B. de Guarmei
+R.deGuar
+Rio Palcazu
+Banose
+StaRosa
+CRedonde
+Morro Lagarto Guarmei
+ChaucofyanCAJATAMBO
+ueropalca
+Rio
+Tambo
+L.Lauricocha
+Code las Tetas
+anaeancha
+Huariao
+Colonia Alemana
+B?del Gramadal
+Jagüei
+Chacayan
+Ceros
+Huaricanga
+Punta Jagüei
+MteDarvin
+Yanahuanca
+Gopgor I
+Cochas
+
+Pativilca
+CERRO DE PASCO
+Andajes
+Urubamba
+OChuri
+ptaTomas
+OAonaeaca
+Rio
+Huancabamba
+Checras
+Haaillai
+OCarhuamayo
+出
+Mainique
+SayanOPacho
+mpias d Bombon
+snFrancisco
+求
+Yguari
+11
+11
+1. Don Martin
+Huacho
+OPacuda
+Perene
+pta de Huacho
+Rio
+1
+aSalinas
+N
+Obrajill
+Fuerte S.Ramon
+Havachica
+Rio de
+T
+Marcapomaocha
+OAcobamba
+Grupo de Huaura:
+CANT
+Yauli
+S.Mateo
+con Huahantanga
+TARMA
+AncAraguai
+de
+hancai
+Alcacotor
+StaEulalia
+dios
+de
+nian
+Ites Hormigas de Terra
+Ancon
+JAUJA
+Santiago
+Ites Pescadores
+2O
+Huaroc
+OLorenzog
+hir
+L.vilca
+Huanse
+12
+Hormigas de Afuera
+CALLAO
+EMPHUANGAYO
+stoDomingo
+Laraos
+Antis
+12
+OSana
+I. SanLorenzo
+IMAO
+Salcabamba
+Viscatan
+Mision
+Ayaviri
+Chiupaca
+Chorrilld
+Indios Chune
+SurcobambaChaimacota
+Pachacan nac YAUYOS
+PtaSo
+Huaribamba
+ar
+Rio
+Ia PachacamaeLurin
+Mala
+Omas
+PAMPAS
+ColcabambaD
+Valle
+Valle
+Taur
+ipampa
+pto de Chilca
+Chilça
+Pampas
+Moya
+Raucarbamba
+Beni
+PtaChilca
+oRio
+Madidi
+HUANCAVELICA
+Yscuchaca
+Abandonadass
+Yesquera
+6HUANTA
+Mala
+Acoria
+illoy
+Cajaso
+Yquicha
+hos
+Coa
+Vinaco
+Tambo
+X
+Asia
+Pucaran
+I.Asia+
+
+Huangascar
+ACOBAMBAO
+Rio
+Rio
+Limahua
+Anco
+13
+ana
+Chupamarcao
+ptaFraile
+AYACUCHO
+Vatle
+13
+Aireai
+Chungr
+CerroAzuroC
+Chavin
+PAUCARTAMBO
+工
+CANETÉ
+Vilcabamba
+Lareso
+Tambillo
+Huachos
+Pilpichaca Chiara
+O
+ARUBAMBAO
+H
+0
+U
+OOcR
+ANC
+Paras
+ampas
+Ollantaitambo
+ChuschiMatara
+Ongoi
+Sitio supuesto de SGaban
+Chinch
+aalta
+C°Cercantai
+O
+Tococha
+Vilcas
+Ocobamba
+Chincl
+Banca
+Undumo
+CASTRO-VIRREINA
+Chincheros
+Limatambe
+Tambode Moi
+ca Chincha baja
+CANGALLO
+olca
+ANDAHU
+AILAS
+Ynambari
+Huaitará
+SS
+Cauça
+Cocharcas
+Esquitaya
+Huambalpa
+SGeronimo
+ANTA
+oza
+Rio
+Curalhuasi
+Sancos
+URCOS
+Sajuana
+Islas de Chincha
+Humai
+Cachi
+△9P
+A
+Saco
+Tequexe
+LBlangi
+PISCO Pisco
+Hualla
+L.de
+Carapo
+Huancarama
+ABANGAL
+Sangarara
+Ayapata
+Canapial
+Singdlar
+OHuancarai
+I. San Gallan
+Santiago
+aurisque
+Querobamba
+Hyayana
+ICA
+Sirca
+PARURO
+Quiquujana
+ptaHuacas
+Oltacher
+Soras
+La
+ACOMAYO
+14
+PenindeParaca
+mbrana
+14
+Ite Zárate
+Cordova
+Huacana OLarcai
+OSoraya
+Checacupe
+achaca
+Xp.
+Monte Wilsor
+ESIE
+Laramate
+Aucara
+Tinta
+Volcan de Tintar
+Llauca
+CHALLHUANCA
+CRUCERO
+Monte Carrelas
+Tungazuca
+SICUANIE
+abana
+polob
+B. de la Independenc
+Chipao
+olleban
+Triche
+Macpi
+SnAnton
+Lade las Vie
+ri
+Otoca
+YANAOCA
+Maranganca
+uiaça
+Rio
+Orurillo Asillo
+otaAzua
+Palpa
+Poto
+Velille
+Checa
+0
+Lavo
+Pampama
+rcab
+Mesade
+Alc
+apiche
+Pelechuco
+OST.TOMAS
+StaRosa
+Da Maria
+Lauray
+Pta Sa nta Maria
+Nazca
+S.JUANDE LUCANAS
+Pichigua
+Muna
+ni
+Suchis
+CoraCora Colha
+AZANGARO
+pta Olleros
+Tomepampa
+Macari
+C
+jata
+Nazca
+O
+Paraisancos
+Corculle
+COTAIIUAS
+Cayarani
+AUmachirin
+aca
+P
+Rada Caballos
+Coporaque
+Puti
+Charasani
+na
+15
+Rio
+Tunga
+YncahuasiChum
+Huaillura
+Cabo Nazça
+Arapa
+yara
+15
+Yaur
+Pudara
+de
+A
+Quichualla
+Pullo
+Alcavictorio
+HUAN
+ICANE
+io
+pta Bevvere
+StaLucia
+PAUZA
+Palmadera
+MAPA
+L.de
+Oscono
+Orcopampa CAILLOMA
+NevadoPomaci
+Saila
+Ocoruro
+quechico
+Copacabanui
+ptaHarmlessSanJuan1
+Taracodn
+Tipuani
+Chaipi
+pto SanJuan
+OTisco
+LAMPA
+Acari
+Salamar
+Moho
+Ouicacha
+ica
+CHUMA
+Canumd
+30
+Pta Steep+Lomas
+Viraco
+Pusi
+Yaqui Volcan Achataihua
+Tapai
+CollalliSomaci
+Julinog
+Guai
+ptaLomas
+rveli
+MacaO
+HuanuHuanuCHUOUI
+Gabanilla
+Rumihu
+Quiabaya
+Beni
+Andaouas
+YanqueAyay
+ompuerta.
+Coata
+P
+Atiqupa
+TO
+Patucarcollo
+Airagua
+Carabuco
+Morro Chala
+ptaChala
+Chala
+Vilque
+E
+Rayo
+Vincocaya
+PUNO o
+Titicaca,
+PicoYllampu
+16
+Yanaquihua
+APLAO
+Nevado,SAntonio
+16
+Pampade Canahue
+Acora
+OACHACACHE
+花花
+PER
+Andarai
+SeAntonioo
+pta de Lobos+
+Huancarqui
+Ylave
+Coroico
+Atico
+evado Chachami
+UracasoCantas
+Lluta
+Guarina
+Rada de Atico
+Pichacani
+Yura
+Penas
+Ptade Atico+
+oleanMist
+Ocon
+Cangallo
+Pon
+AREQUIPA
+ata
+Aigache
+CHULUMAN
+ptaPescadores+
+Carbonifero
+unouyo
+Pucara
+Pichu-Pibhu
+Ylave
+Siguas
+Tahuanaco
+Characato
+oVolcaurUbinas
+Witor
+Zepita
+Picolllimani
+CAMAN
+Cerro
+Choma
+Laja
+LAPAZ
+Rio
+ptaCama
+Fara
+ná
+Omate
+ampa
+ide
+Yslai
+Ventilla
+Quilca
+SLAI
+Joya
+Puqu
+Esqanoh
+taRosa
+Guerreros
+Otoca
+SnAndres
+/
+Coracor
+Calamarca
+ptodeYslai
+D
+17
+Ta Molles
+POR
+Tambo
+17
+Pico Miriquiri
+Torata
+Ayoayo
+ocachacra
+Clemesi
+ptadeMejia
+X
+OCOROCORO
+MOOUEHUAO
+CocoteaO
+SICASICA
+I
+ptaPacra
+Chattapuja
+Rinconad
+VoleanTutupate
+Ckatlapata
+Locumba
+Yervabuena
+Sarento
+Aroma
+ptaYervabuena
+deJagüed
+Candarave
+f
+Achiri
+PadoPallagua
+Calacoto
+RioSmoria
+台
+DANIEL
+gcgmarca
+BARRERA
+Ensenada deYlo
+PicoQuen
+Maure
+Ylo
+Sitana
+uta
+vado Chipicani
+Caracollo
+PtadeColes
+Saracuai
+racarani
+Pacajes
+Pachia
+husuma
+Cajas
+ptaPicataSama
+Taoora
+Colpa
+Barca
+Pico Cancal
+Mutatos
+ptade Sama
+de Sama
+18
+Sepulturas
+18
+Chapacallani
+Pta Quiaca
+ORURO
+TACNA
+YolcanSajáma
+1
+H
+harape
+Piso Parinacoto
+LIMA 1871
+CORQUE
+to de Arica
+Lluta
+GualatieriVolcan
+Morro de Arica
+Monte Gordoy ARIC
+
+Negrillos
+ptaMadrid
+19
+19
+Carangas
+ptaGorda
+Chesa
+S
+Rio
+Tolcan Ysluga
+Lamarpata
+Tana
+de
+Challacata
+Bahía de Pisagua
+Sipisa
+ptaPicha
+Arom
+EXPLICACION
+Risagua
+8
+Siba
+ptaMejillones
+8
+M
+cha
+Salinas
+Meullone
+oNegr
+Tarapac
+Llica
+85
+de
+20
+ptaColorada
+ARAPACA
+20
+YOUIQUE
+Pamp
+Capital de la República
+Huano
+T TO NO T A
+Azogue
+Čanguella
++
+pto de Yquique
+Pera
+Yabriebya
+Pampay Lago de Sal
+Antigüedades
+Antimonio
+I. de Yquique
+A
+Molle
+a
+Capitales de Departamentos
+Calera
+oo
+Aguas termales
+Magnesia
+口
+3
+Puntos y rios auriferos
+Arsenico
+Nomia Nuevao
+e
+Pica
+Volean Tica
+Chucumata
+id.. de Provincias
+Cr.o S.Pedro
+Oro
+Alumbre
+ide
+Nunex
+Volcan Chila
+O
+Ites Patillos
+Patillos
+Casion
+Colcha
+Plata
+寸
+Término de la Navegacion
+Puertos Mayores
+ptaPatache
+Cana
+Pongos
+①Tamentica
+Chiclla
+Cobre
+Chigua
+f子
+Pabellon de Pica
+古
+21
+onao
+id..Menores
+Fierro
+Limites de la República
+Volcan Olca
+m
+21
+ptaBlanca
+1
+C
+hallacollo
+Paritari
+Ites de los Pajaros
+ARAPAC
+Lago Cenzis
+一o
+Plomo
+Limites de los Departam
+entos
+Bahia Chomache
+Caletas habilitadas
+pta Chomache
+CoMino
+8
+S. Cristóval
+10
+Iman
+Ferrocarriles
+Bahia Chipana
+Pta Chipana
+Mino
+Volean Ollagua
+40 40-0 10 +0 40.70 10
+Cal
+Ferrocarriles en construdcion
+Cilate
+Lugares notables
+Potosi
+Quebr
+CanchasBlarcas
+Yeso
+Ferrocarriles en proyect
+AmamAn
+pta Arena
+TERRITORIDCE
+Desembarcaderos
+Azufre
+Caminos
+OCUPADO
+Vscachillas
+Lago de
+Brea
+8
+Canales
+Quillagry
+Capitales de Distrito
+Co San Francisco
+Ascotan
+Derotero de los Vapores delaMala
+POR
+Salitre
+Ascotan
+22
+Paquica
+22
+BOLIVIA
+Borax
+Deroteroi.i..ca leterrs
+Villas, Pueblos, Postas y Tambos
+Tocopilla
+Camino
+Tocapilla
+Barbara
+Polapi
+Ne
+maname
+Sal
+Cere
+A
+Combates
+Carbon de Piedra
+Miscant
+tama
+Volcan S.Pedro
+Catico
+Colupo
+Chiuchiu
+Esdcala de 25 leguas al grado
+COBIJA
+M.f.L.
+ca. 7: 2, 7 bin
+Leipzig
+Longitud Occidental del Meri diano de Paris
+012345
+10
+15
+20
+25
+30
+35
+40
+45
+50 lieues
+23
+23
+71
+70
+73
+84
+82
+78
+72
+83
+81
+8o
+79
+-6
+-5
+77
+Paris. Imprenta Lemercier, Calle de Seine 5-
+Grabado por Erhard Schieble Calle Duguay-Trouin 12
+EDITORES AUBERT &C
+LIMA
+
+C1
+B1 A1
+C2
+B2
+A2
+B5
+A5
+20
+18
+17
+16 11
+10 09
+03
+02
+01
+C7
+B7 A7
+C8
+B8 A8 C9 B9
+PEEES
+Patch Reference numbers on UTT
+316
+Image Engineering Scan Reference Chart TE263
+the scale towards document",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,1376,11468,0.9394,34160.623,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,PENDIENTE_REVISION_HUMANA
