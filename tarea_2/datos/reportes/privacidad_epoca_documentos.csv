@@ -1,0 +1,26 @@
+id,epoca,justificacion,politica,revision
+doc_001,histórico,contenido anterior a 1950 (personas fallecidas o figuras públicas),solo EMAIL/TELEFONO/DNI,PENDIENTE_REVISION_HUMANA
+doc_002,histórico,contenido anterior a 1950 (personas fallecidas o figuras públicas),solo EMAIL/TELEFONO/DNI,PENDIENTE_REVISION_HUMANA
+doc_003,histórico,contenido anterior a 1950 (personas fallecidas o figuras públicas),solo EMAIL/TELEFONO/DNI,PENDIENTE_REVISION_HUMANA
+doc_004,histórico,contenido anterior a 1950 (personas fallecidas o figuras públicas),solo EMAIL/TELEFONO/DNI,PENDIENTE_REVISION_HUMANA
+doc_005,histórico,contenido anterior a 1950 (personas fallecidas o figuras públicas),solo EMAIL/TELEFONO/DNI,PENDIENTE_REVISION_HUMANA
+doc_006,histórico,contenido anterior a 1950 (personas fallecidas o figuras públicas),solo EMAIL/TELEFONO/DNI,PENDIENTE_REVISION_HUMANA
+doc_007,histórico,contenido anterior a 1950 (personas fallecidas o figuras públicas),solo EMAIL/TELEFONO/DNI,PENDIENTE_REVISION_HUMANA
+doc_008,histórico,contenido anterior a 1950 (personas fallecidas o figuras públicas),solo EMAIL/TELEFONO/DNI,PENDIENTE_REVISION_HUMANA
+doc_009,histórico,contenido anterior a 1950 (personas fallecidas o figuras públicas),solo EMAIL/TELEFONO/DNI,PENDIENTE_REVISION_HUMANA
+doc_010,histórico,contenido anterior a 1950 (personas fallecidas o figuras públicas),solo EMAIL/TELEFONO/DNI,PENDIENTE_REVISION_HUMANA
+doc_011,histórico,contenido anterior a 1950 (personas fallecidas o figuras públicas),solo EMAIL/TELEFONO/DNI,PENDIENTE_REVISION_HUMANA
+doc_012,histórico,contenido anterior a 1950 (personas fallecidas o figuras públicas),solo EMAIL/TELEFONO/DNI,PENDIENTE_REVISION_HUMANA
+doc_013,contemporáneo,carta privada fechada en 2014 (personas posiblemente vivas),completa (NER + regex),PENDIENTE_REVISION_HUMANA
+doc_014,histórico,contenido anterior a 1950 (personas fallecidas o figuras públicas),solo EMAIL/TELEFONO/DNI,PENDIENTE_REVISION_HUMANA
+doc_015,histórico,contenido anterior a 1950 (personas fallecidas o figuras públicas),solo EMAIL/TELEFONO/DNI,PENDIENTE_REVISION_HUMANA
+doc_016,histórico,contenido anterior a 1950 (personas fallecidas o figuras públicas),solo EMAIL/TELEFONO/DNI,PENDIENTE_REVISION_HUMANA
+doc_017,histórico,contenido anterior a 1950 (personas fallecidas o figuras públicas),solo EMAIL/TELEFONO/DNI,PENDIENTE_REVISION_HUMANA
+doc_018,histórico,contenido anterior a 1950 (personas fallecidas o figuras públicas),solo EMAIL/TELEFONO/DNI,PENDIENTE_REVISION_HUMANA
+doc_019,histórico,contenido anterior a 1950 (personas fallecidas o figuras públicas),solo EMAIL/TELEFONO/DNI,PENDIENTE_REVISION_HUMANA
+doc_020,histórico,contenido anterior a 1950 (personas fallecidas o figuras públicas),solo EMAIL/TELEFONO/DNI,PENDIENTE_REVISION_HUMANA
+doc_021,contemporáneo,fotografía reciente de una pantalla; muestra un correo electrónico,completa (NER + regex),PENDIENTE_REVISION_HUMANA
+doc_022,contemporáneo,acta municipal de 2015–2016 con nombres de particulares,completa (NER + regex),PENDIENTE_REVISION_HUMANA
+doc_023,contemporáneo,acta municipal de 2015–2016 con nombres de particulares,completa (NER + regex),PENDIENTE_REVISION_HUMANA
+doc_024,histórico,contenido anterior a 1950 (personas fallecidas o figuras públicas),solo EMAIL/TELEFONO/DNI,PENDIENTE_REVISION_HUMANA
+doc_025,histórico,contenido anterior a 1950 (personas fallecidas o figuras públicas),solo EMAIL/TELEFONO/DNI,PENDIENTE_REVISION_HUMANA
