@@ -1,0 +1,30 @@
+# Dependencias de PROCESAMIENTO (notebooks 01/02 y scripts). No son necesarias para el dashboard.
+# Entorno probado: Windows 11, Python 3.13.7, CPU (Intel Core Ultra 5 125H, 15,5 GB RAM).
+# Instalación:  python -m venv .venv  &&  .venv\Scripts\python -m pip install -r requirements-procesamiento.txt
+# Herramientas externas (fuera de pip):
+#   - FFmpeg 9.0.2:     winget install --id Gyan.FFmpeg -e --version 9.0.2
+#   - Tesseract 5.4.0:  winget install --id UB-Mannheim.TesseractOCR -e  (+ spa.traineddata en modelos/tessdata)
+# Versiones exactas resueltas: requirements-procesamiento.lock.txt
+
+# OCR
+paddlepaddle==3.3.1
+paddleocr==3.7.0
+pytesseract==0.3.13
+
+# ASR, VAD y diarización
+faster-whisper==1.2.1
+sherpa-onnx==2.0.0
+soundfile==0.14.0
+
+# Seudonimización (NER en español)
+spacy==3.8.16
+es_core_news_md @ https://github.com/explosion/spacy-models/releases/download/es_core_news_md-3.8.0/es_core_news_md-3.8.0-py3-none-any.whl
+
+# Datos, gráficos y notebooks
+pandas
+numpy
+plotly
+kaleido==1.5.0
+ipykernel
+nbconvert
+nbformat
