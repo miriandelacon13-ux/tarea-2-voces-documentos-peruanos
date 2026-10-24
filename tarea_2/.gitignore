@@ -1,0 +1,35 @@
+# --- Datos originales y derivados pesados (no se versionan) ---
+datos/raw/
+
+# --- Pesos, checkpoints y cachés de modelos ---
+modelos/*.safetensors
+modelos/*.bin
+modelos/*.pt
+modelos/*.pth
+modelos/*.onnx
+modelos/*.pdparams
+modelos/*.gguf
+modelos/checkpoint-*/
+modelos/**/
+.cache/
+.paddlex/
+huggingface/
+
+# --- Python / Jupyter ---
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# --- Entornos y secretos (nunca subir claves ni tokens) ---
+.env
+.env.*
+.venv/
+venv/
+.streamlit/secrets.toml
+*.key
+*.pem
+
+# --- Sistema ---
+Thumbs.db
+desktop.ini
+.DS_Store

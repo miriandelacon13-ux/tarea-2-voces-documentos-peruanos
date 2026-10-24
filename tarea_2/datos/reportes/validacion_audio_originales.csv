@@ -1,0 +1,8 @@
+archivo_original,carpeta_origen,titulo_commons,streams_original,start_time_original_s,duracion_ffprobe_contenedor_s,duracion_decodificada_original_s,duracion_commons_declarada_s,archivo_normalizado,formato_normalizado,start_time_normalizado_s,duracion_ffprobe_normalizada_s,duracion_decodificada_normalizada_s,diferencia_norm_vs_original_s,accion,estado
+audio_A.webm,originales,Entrevista con [PERSONA_ENTREVISTADA_A].webm,audio:vorbis; video:vp8,74938.925,,490.613,2298.017,audio_A.flac,flac 44100 Hz 2 ch,0.0,490.613,490.613,0.0,ya_existia,OK
+audio_B.webm,originales,Entrevista con el señor [PERSONA_ENTREVISTADA_B].webm,audio:vorbis; video:vp8,65326.884,,200.506,909.603,audio_B.flac,flac 44100 Hz 2 ch,0.0,200.506,200.506,0.0,ya_existia,OK
+audio_C.webm,originales,Entrevista con la señora [PERSONA_ENTREVISTADA_C].webm,audio:vorbis; video:vp8,66949.942,,170.633,789.638,audio_C.flac,flac 44100 Hz 2 ch,0.0,170.633,170.633,0.0,ya_existia,OK
+audio_D.webm,originales,Entrevista con un excombatiente de la guerra del Cenepa.webm,audio:vorbis; video:vp8,78538.681,,328.488,1418.393,audio_D.flac,flac 44100 Hz 2 ch,0.0,328.488,328.488,0.0,ya_existia,OK
+audio_E.webm,originales,Entrevistas.webm,video:vp9; audio:opus,0.0,326.54,326.519,326.54,audio_E.flac,flac 48000 Hz 2 ch,0.0,326.519,326.519,0.0,ya_existia,OK
+audio_F.ogg,adicionales,Entrevista a [PERSONA_ENTREVISTADA_F]-Organización de mujeres indígenas-fiestas patrias-protesta.ogg,audio:vorbis,0.0,497.658776,497.659,497.659,audio_F.flac,flac 44100 Hz 2 ch,0.0,497.659,497.659,0.0,ya_existia,OK
+audio_G.ogg,adicionales,Entrevista 2 en la Av. Rivagüero - El Agustino.ogg,audio:vorbis,0.0,189.010431,189.01,189.01,audio_G.flac,flac 44100 Hz 1 ch,0.0,189.01,189.01,0.0,ya_existia,OK
