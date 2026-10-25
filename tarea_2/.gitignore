@@ -33,3 +33,6 @@ venv/
 Thumbs.db
 desktop.ini
 .DS_Store
+
+# Revisión de referencias con texto sin seudonimizar (privado)
+datos/REVISION_RAPIDA_REFERENCIAS.md
