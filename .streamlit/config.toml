@@ -1,0 +1,6 @@
+# Configuración de Streamlit (en la raíz del repositorio: Community Cloud ejecuta la app desde aquí).
+[theme]
+primaryColor = "#2a78d6"
+
+[browser]
+gatherUsageStats = false

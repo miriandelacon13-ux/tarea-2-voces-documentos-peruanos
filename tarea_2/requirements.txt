@@ -1,0 +1,6 @@
+# Dependencias mínimas del dashboard (app.py). Solo lee CSV precalculados: no necesita OCR, ASR ni LLM.
+# Las dependencias del procesamiento (notebooks y scripts) están en requirements-procesamiento.txt.
+streamlit==1.66.1
+pandas==3.1.0
+plotly==7.1.0
+numpy==2.3.5

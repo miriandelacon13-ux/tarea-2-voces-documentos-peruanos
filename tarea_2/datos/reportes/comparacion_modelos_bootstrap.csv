@@ -1,0 +1,3 @@
+modalidad,metrica,modelo_a,modelo_b,diferencia_media_a_menos_b,ic95_inf,ic95_sup,significativa,a_mejor,b_mejor,empates,remuestreos,semilla
+documento,CER,PaddleOCR,Tesseract,-0.36395679669460124,-0.5666633206707451,-0.17630124740484815,True,8,2,0,10000,2026
+audio,WER,faster-whisper small,Parakeet TDT 0.6B v3,0.01707477418123099,-0.013665428265013652,0.059154485089928335,False,2,5,3,10000,2026

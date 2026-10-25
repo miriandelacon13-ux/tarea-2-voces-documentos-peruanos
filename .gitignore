@@ -2,3 +2,6 @@
 # están en tarea_2/datos/raw/, que tampoco se versiona.
 /audio/
 /documentos/
+
+# Secretos de Streamlit (nunca se versionan)
+.streamlit/secrets.toml
