@@ -1,0 +1,22 @@
+# Escribe SI o NO después de cada id; observación opcional después de '|'
+doc_003: NO | revisar monto 487/45; no está claro que sea un monto monetario
+doc_007: SI
+doc_008: NO | la fecha aparece como "n/a" y debería ser null
+doc_012: SI
+doc_013: NO | el tema "promoción de productos y servicios" no parece estar claramente sustentado por el texto fuente
+doc_015: NO | el resumen interpreta demasiado un OCR muy deteriorado
+doc_016: SI
+doc_017: SI
+doc_019: NO | el tema y el resumen parecen mezclar fragmentos distintos del panel
+doc_025: NO | el texto está truncado y la extracción no es suficientemente confiable
+
+aud_001: NO | el LLM dice 3 hablantes y las etiquetas muestran 2
+aud_002: SI
+aud_004: SI
+aud_006: NO | solo 2 de 3 citas son literales
+aud_014: SI
+aud_017: NO | el LLM dice 4 hablantes y las etiquetas muestran 3
+aud_021: SI
+aud_025: SI
+aud_026: SI
+aud_027: NO | solo 2 de 3 citas son literales y el LLM dice 3 hablantes cuando las etiquetas muestran 2
