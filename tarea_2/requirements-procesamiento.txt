@@ -16,6 +16,12 @@ faster-whisper==1.2.1
 sherpa-onnx==2.0.0
 soundfile==0.14.0
 
+# Evaluación (CER/WER con normalización; cifras a palabras para WER)
+jiwer==4.0.0
+num2words==0.5.14
+# ASR alternativo: Parakeet TDT 0.6B v3 (ONNX int8) corre con sherpa-onnx (ya listado arriba);
+# modelo: sherpa-onnx-nemo-parakeet-tdt-0.6b-v3-int8 (releases k2-fsa/sherpa-onnx) en modelos/asr_parakeet/
+
 # Seudonimización (NER en español)
 spacy==3.8.16
 es_core_news_md @ https://github.com/explosion/spacy-models/releases/download/es_core_news_md-3.8.0/es_core_news_md-3.8.0-py3-none-any.whl

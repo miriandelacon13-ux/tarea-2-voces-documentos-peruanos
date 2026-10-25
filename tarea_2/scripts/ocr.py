@@ -109,7 +109,9 @@ def ocr_tesseract(ruta: Path, forzar: bool = False) -> dict:
     if (previo := _leer_cache(cache, forzar)) is not None:
         return previo
     rgb, prepro = cargar_imagen(ruta)
-    config = f'--tessdata-dir "{TESSDATA}" --psm {CONFIG_TESSERACT["psm"]} --oem {CONFIG_TESSERACT["oem"]}'
+    # TESSDATA_PREFIX en lugar de --tessdata-dir: pytesseract en Windows conserva las comillas del argumento
+    os.environ["TESSDATA_PREFIX"] = str(TESSDATA)
+    config = f'--psm {CONFIG_TESSERACT["psm"]} --oem {CONFIG_TESSERACT["oem"]}'
     t0 = time.perf_counter()
     datos = pytesseract.image_to_data(Image.fromarray(rgb), lang=CONFIG_TESSERACT["lang"], config=config,
                                       output_type=pytesseract.Output.DICT)
