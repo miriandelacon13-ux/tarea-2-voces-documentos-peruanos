@@ -2,9 +2,10 @@
 
 > **Pregunta guía:** ¿Podemos convertir documentos escaneados y entrevistas en audio en un archivo de texto estructurado y buscable?
 
-**Autora:** Mirian de la Cruz Condori · Diplomado Python · Tarea 2
-**Dashboard público:** `PENDIENTE_DESPLIEGUE`
-**Notebooks:** [`01_extraccion.ipynb`](01_extraccion.ipynb) (corpus, OCR, ASR, diarización, privacidad, EDA) · [`02_evaluacion.ipynb`](02_evaluacion.ipynb) (CER, WER, eficiencia, LLM, auditoría)
+- **Autora:** Mirian de la Cruz Condori · Diplomado Python · Tarea 2
+- **Dashboard público:** [tarea-2-voces-documentos-peruanos.streamlit.app](https://tarea-2-voces-documentos-peruanos-r8jc6xclfjwul2hee65ex2.streamlit.app/)
+- **Repositorio:** [github.com/miriandelacon13-ux/tarea-2-voces-documentos-peruanos](https://github.com/miriandelacon13-ux/tarea-2-voces-documentos-peruanos)
+- **Notebooks:** [`01_extraccion.ipynb`](01_extraccion.ipynb) (corpus, OCR, ASR, diarización, privacidad, EDA) · [`02_evaluacion.ipynb`](02_evaluacion.ipynb) (CER, WER, eficiencia, LLM, auditoría)
 
 | | Resultado (datos reales de este repositorio) |
 |---|---|
