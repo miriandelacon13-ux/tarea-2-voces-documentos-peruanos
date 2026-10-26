@@ -56,16 +56,27 @@ Construir, a partir de fuentes abiertas, un pequeño archivo peruano **buscable 
 
 **Fuentes.** Todo el material proviene de Wikimedia Commons:
 - **Audio:** las 7 fuentes están verificadas por SHA-1.
-- **Documentos:** 19 de 25 están verificados por SHA-1.
-- **Pendientes:** en 6 documentos (doc_005, doc_006, doc_007, doc_009, doc_010 y doc_021) la fuente y la licencia quedan como `PENDIENTE_REVISION_HUMANA`, porque la autora debe aportar la URL de origen y no se inventaron.
+- **Documentos:** los 25 tienen fuente verificada.
+  - **19 por SHA-1:** el archivo local es idéntico al publicado.
+  - **6 por contenido** (`scripts/04b_fuentes_por_contenido.py`): el archivo local no es el publicado, así que su SHA-1 no puede coincidir.
+
+| Documento | Fuente en Commons | Correspondencia verificada |
+|---|---|---|
+| doc_005 | *Tradiciones peruanas*, Tomo I (Montaner y Simón, 1893), PDF | Página 11 (portada), exportada del PDF |
+| doc_006 | *Tradiciones peruanas*, Tomo II (1894), PDF | Página 14 (página impresa 8) |
+| doc_007 | *El Perú Ilustrado*, 1887 (Internet Archive), PDF | Página 5: Año I, núm. 3, 28 de mayo de 1887 |
+| doc_009 | Carta de Carlos J. Bachmann a Ricardo Palma, Riberalta, 10 de junio de 1912 (Biblioteca Nacional del Perú), PDF | Página 1 |
+| doc_010 | Carta de Carlos J. Bachmann a Ricardo Palma, Maldonado, 4 de julio de 1914 (Biblioteca Nacional del Perú), PDF | Página 2 |
+| doc_021 | *Himno de Chanchamayo* (`Himno_Chyo.jpg`) | Fotografía propia de la pantalla que muestra el archivo en Commons |
+
+En los PDF, la página local es la más parecida de todo el documento (correlación visual de 0,90 a 0,99, muy por encima de la siguiente). En doc_021 coinciden el texto, el diseño y las resoluciones que se leen en la foto. La evidencia de cada caso está en la columna `coincidencia` de `datos/reportes/fuentes_documentos_commons.csv`.
 
 | Licencia | Fuentes |
 |---|---|
 | CC BY-SA 4.0 | 11 (5 documentos y 6 audios) |
-| Dominio público | 10 documentos |
+| Dominio público | 14 documentos |
 | CC BY 4.0 / CC BY 2.0 | 2 + 1 documentos |
-| CC0 | 1 documento y 1 audio |
-| `PENDIENTE_REVISION_HUMANA` | 6 documentos |
+| CC0 | 3 documentos y 1 audio |
 
 La atribución completa (autor, licencia y enlace) está en [`datos/fuentes.csv`](datos/fuentes.csv).
 
@@ -234,7 +245,7 @@ tarea_2/
 **Otras:**
 - la diarización subestima en la fuente G;
 - la auditoría LLM la hizo una sola revisora que veía las alertas;
-- en 6 documentos la fuente sigue pendiente.
+- 6 documentos no son el archivo publicado en Commons, sino una página exportada de un PDF o una foto de pantalla, así que su fuente se verificó por contenido y no por SHA-1.
 
 ## 7. Privacidad, seudonimización y ética
 
@@ -243,7 +254,8 @@ tarea_2/
 - **Metadatos de Commons:** algunos contenían el nombre de una persona protegida:
   - los títulos de cuatro entrevistas (A, B, C y F);
   - los metadatos de doc_013;
-  - el crédito de autor de doc_022 y doc_023, porque esa persona figura, seudonimizada, en el texto del acta.
+  - el crédito de autor de doc_022 y doc_023, porque esa persona figura, seudonimizada, en el texto del acta;
+  - el usuario de Commons que subió doc_021, que coincide con el nombre y el correo seudonimizados en la imagen (obra de dominio público: la licencia no exige el crédito).
 - **Corrección** (`scripts/17_preparar_publicacion.py`):
   - reemplaza esos nombres por marcadores (`[PERSONA_ENTREVISTADA_A]`, `[AUTOR_SEUDONIMIZADO]`, …);
   - cambia las URL afectadas por la URL estable `https://commons.wikimedia.org/w/index.php?curid=<pageid>`, que lleva a la página con la atribución completa, como permite CC BY y CC BY-SA 4.0 §3(a)(2).
@@ -273,7 +285,8 @@ streamlit run tarea_2/app.py      # http://localhost:8501
 2. **Corpus:**
    - `scripts/00_copiar_originales.py`;
    - `00b_descargar_audio_adicional.py` y `01_metadatos_commons.py` (consultan Commons por *pageid*);
-   - `02_normalizar_audio.py` a `05_clasificar_documentos.py`.
+   - `02_normalizar_audio.py` a `05_clasificar_documentos.py`;
+   - `04b_fuentes_por_contenido.py` (fuentes de los 6 documentos sin coincidencia de SHA-1).
 3. **Publicación:** `scripts/17_preparar_publicacion.py`. Retira los nombres de títulos y metadatos; es idempotente.
 4. **Extracción:**
    - `06_ejecutar_ocr.py` y `07_ejecutar_asr.py` (guardan caché en `datos/raw/cache/`);

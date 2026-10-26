@@ -92,6 +92,11 @@ def cargar() -> dict[str, pd.DataFrame | None]:
                         right_index=True, how="left")
     url_fuente = fuentes.set_index("id")["fuente_url"]
     audio["fuente_url"] = audio["fuente_id"].map(url_fuente)
+    # Cómo se verificó la fuente de cada documento: por SHA-1 (archivo idéntico) o por contenido
+    acceso = fuentes.set_index("id")["acceso"].astype(str)
+    docs["verificacion_fuente"] = docs["id"].map(acceso).map(
+        lambda a: "Commons · verificada por contenido" if "contenido" in a else
+        ("Commons · verificada por SHA-1" if "SHA-1" in a else PENDIENTE_TXT))
     audio["texto_plano"] = audio["texto_asr_diarizado"].fillna("").map(quitar_hablantes)
     for df in (docs, audio):
         df["fuente_url"] = df["fuente_url"].where(df["fuente_url"].astype(str).str.startswith("http"))
@@ -251,7 +256,10 @@ def tab_resumen(D) -> None:
     with c[3]:
         st.metric("Fuentes verificadas", f"{verificadas + audio['fuente_id'].nunique()}/{len(docs) + audio['fuente_id'].nunique()}",
                   border=True)
-        st.caption(f"{len(docs) - verificadas} documentos: {PENDIENTE_TXT.lower()}")
+        por_contenido = (docs["verificacion_fuente"] == "Commons · verificada por contenido").sum()
+        pendientes = len(docs) - verificadas
+        st.caption(f"{pendientes} documentos: {PENDIENTE_TXT.lower()}" if pendientes else
+                   f"Por SHA-1, salvo {por_contenido} documentos verificados por contenido")
 
     mejor_asr = res.loc[ASR, "promedio"].idxmin()
     otro_asr = [m for m in ASR if m != mejor_asr][0]
@@ -416,7 +424,7 @@ def tab_documentos(D) -> None:
     with t1:
         vista = sel.assign(licencia=sel["licencia"].map(mostrar), cer_paddle=sel["cer_paddle"].map(metrica_txt),
                            cer_tesseract=sel["cer_tesseract"].map(metrica_txt),
-                           fuente=np.where(sel["fuente_url"].notna(), "Commons (SHA-1 verificado)", PENDIENTE_TXT))
+                           fuente=sel["verificacion_fuente"])
         st.dataframe(vista[["id", "tipo", "epoca", "confianza_media", "n_caracteres", "tiempo_ocr_seg",
                             "cer_paddle", "cer_tesseract", "licencia", "fuente"]], hide_index=True, height=390,
                      column_config={

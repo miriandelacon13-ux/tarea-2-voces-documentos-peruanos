@@ -93,7 +93,7 @@ pueblos
 ncn.
 Ame, 1 de biiemhe 1938
 OROlunwids",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,22,520,0.7789,19.559,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,REVISADO_HUMANAMENTE
-doc_005,doc_005.png,impreso,,False,PENDIENTE_REVISION_HUMANA,PENDIENTE_REVISION_HUMANA,PENDIENTE_REVISION_HUMANA,PNG,1087,1643,"TRADICIONES
+doc_005,doc_005.png,impreso,,False,Tradiciones peruanas - Tomo I (1893).pdf,https://commons.wikimedia.org/wiki/File:Tradiciones_peruanas_-_Tomo_I_(1893).pdf,Public domain,PNG,1087,1643,"TRADICIONES
 PERUANAS
 POR
 RICARDOPALMA
@@ -104,7 +104,7 @@ BARCELONA
 MONTANER Y SIMÓN, EDITORES
 CALLE DE ARAGON, NÚMS. 309 Y 311
 1893",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",canal alfa opaco descartado -> RGB,11,238,0.9715,23.875,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,REVISADO_HUMANAMENTE
-doc_006,doc_006.png,impreso,,False,PENDIENTE_REVISION_HUMANA,PENDIENTE_REVISION_HUMANA,PENDIENTE_REVISION_HUMANA,PNG,1099,1560,"8
+doc_006,doc_006.png,impreso,,False,Tradiciones peruanas - Tomo II (1894).pdf,https://commons.wikimedia.org/wiki/File:Tradiciones_peruanas_-_Tomo_II_(1894).pdf,Public domain,PNG,1099,1560,"8
 TRADICIONES PERUANAS
 Y luego, ¿qué provecho, en buen análisis,
 Oh! Dejadme vivir con las fantásticas
@@ -160,7 +160,7 @@ hechizo encuentra siempre el corazón;
 pues dóranlo las luces de un crepúsculo
 RICARDO PALMA
 más bello que del alba el arrebol....",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",canal alfa opaco descartado -> RGB,56,2009,0.9914,54.051,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,REVISADO_HUMANAMENTE
-doc_007,doc_007.png,impreso,"Periódico ilustrado antiguo (1887): papel amarillento, columnas y grabados.",False,PENDIENTE_REVISION_HUMANA,PENDIENTE_REVISION_HUMANA,PENDIENTE_REVISION_HUMANA,PNG,1550,2336,"EI DERNYLUSTRADO
+doc_007,doc_007.png,impreso,"Periódico ilustrado antiguo (1887): papel amarillento, columnas y grabados.",False,El Peru ilustrado (IA elperuilustrado1887lima).pdf,https://commons.wikimedia.org/wiki/File:El_Peru_ilustrado_(IA_elperuilustrado1887lima).pdf,Public domain,PNG,1550,2336,"EI DERNYLUSTRADO
 SEMANARIO ILUSTRADO PARA LAS FAMILIAS – Editores Propietarios, PETER BACIGALUPI & Co.
 AÑO I.}
 {NUM. 3.
@@ -349,7 +349,7 @@ NDQ
 Wenahtusing
  n Dellar Arid d 1879
 Imp, del Es ado-Lima.",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,109,1276,0.7207,137.33,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,REVISADO_HUMANAMENTE
-doc_009,doc_009.png,manuscrito,,False,PENDIENTE_REVISION_HUMANA,PENDIENTE_REVISION_HUMANA,PENDIENTE_REVISION_HUMANA,PNG,1644,2144,"Ins sere
+doc_009,doc_009.png,manuscrito,,False,"4000004161-0003 - Carta de Carlos J. Bachmann. 1912 junio 10, Riberalta; para Ricardo Palma, Lima.pdf","https://commons.wikimedia.org/wiki/File:4000004161-0003_-_Carta_de_Carlos_J._Bachmann._1912_junio_10,_Riberalta;_para_Ricardo_Palma,_Lima.pdf",CC0,PNG,1644,2144,"Ins sere
 Riberalta, jumio 10 de 1912.
 Sener don Ricardo Palma
 m
@@ -396,7 +396,7 @@ do puedo tecir testigo de su innmenen labor de su asidui
 
 dad, de sus fatigas.
 Todo su tiempo era absorbido por",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",canal alfa opaco descartado -> RGB,47,1130,0.5952,64.613,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,REVISADO_HUMANAMENTE
-doc_010,doc_010.png,impreso,Mecanografiado (máquina de escribir) con firma manuscrita; domina el texto mecánico.,False,PENDIENTE_REVISION_HUMANA,PENDIENTE_REVISION_HUMANA,PENDIENTE_REVISION_HUMANA,PNG,1633,2161,"R。 P。- 2.
+doc_010,doc_010.png,impreso,Mecanografiado (máquina de escribir) con firma manuscrita; domina el texto mecánico.,False,"4000004161-0016 - Carta de Carlos J. Bachmann. 1914 julio 4, Maldonado; para Ricardo Palma, Lima.pdf","https://commons.wikimedia.org/wiki/File:4000004161-0016_-_Carta_de_Carlos_J._Bachmann._1914_julio_4,_Maldonado;_para_Ricardo_Palma,_Lima.pdf",CC0,PNG,1633,2161,"R。 P。- 2.
 vientes votos por la felicidad de sus dignos y estimables hijos, y
 porque permite la Providencia que le cuerda de que U. me hablaba
 ahora dos años, en amebilísime carte que agradezco y conservaré co-
@@ -685,7 +685,7 @@ a
 
 
 ",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,42,1800,0.7282,416.76,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,REVISADO_HUMANAMENTE
-doc_021,doc_021.jpg,foto,Fotografía de una pantalla que muestra un texto impreso: moiré y perspectiva. El archivo es PNG aunque tiene extensión .jpg.,False,PENDIENTE_REVISION_HUMANA,PENDIENTE_REVISION_HUMANA,PENDIENTE_REVISION_HUMANA,PNG,530,832,"HIMNO DE CHANCHAMAYO
+doc_021,doc_021.jpg,foto,Fotografía de una pantalla que muestra un texto impreso: moiré y perspectiva. El archivo es PNG aunque tiene extensión .jpg.,False,Himno Chyo.jpg,https://commons.wikimedia.org/wiki/File:Himno_Chyo.jpg,Public domain,PNG,530,832,"HIMNO DE CHANCHAMAYO
 CORO
 Chanchamayo, el ""PERÚ"" te Proclama
 Corazón de la ""Selva Central""
