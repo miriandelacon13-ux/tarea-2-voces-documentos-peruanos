@@ -1,14 +1,14 @@
 seccion,segundos
-0. Configuración e importaciones,1.26
-1. Carga y validación del corpus (hashes y ffprobe en vivo),1.63
-2. OCR PaddleOCR (lectura de caché si existe),2.31
-3. ASR faster-whisper (lectura de caché si existe),0.07
-4a. Diarización (lectura de caché si existe) y alineación con ASR,0.05
-4b. Gráficos de diarización,0.2
-5. Seudonimización (dos pasadas + verificación de fugas),3.42
-6. Duplicados y descartes (dHash + VAD),1.21
+0. Configuración e importaciones,1.25
+1. Carga y validación del corpus (hashes y ffprobe en vivo),1.28
+2. OCR PaddleOCR (lectura de caché si existe),2.18
+3. ASR faster-whisper (lectura de caché si existe),0.05
+4a. Diarización (lectura de caché si existe) y alineación con ASR,0.04
+4b. Gráficos de diarización,0.18
+5. Seudonimización (dos pasadas + verificación de fugas),2.92
+6. Duplicados y descartes (dHash + VAD),1.15
 7. Escritura de CSV finales,0.05
-8. Gráficos EDA (interactivos),0.31
+8. Gráficos EDA (interactivos),0.25
 8b. Exportación PNG opcional,0.01
 9. Extremos del corpus,0.02
 10. Resumen de pendientes,0.01

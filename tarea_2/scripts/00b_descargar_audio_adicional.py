@@ -27,24 +27,25 @@ ADICIONALES = RAW / "audio" / "adicionales"
 API = "https://commons.wikimedia.org/w/api.php"
 USER_AGENT = "Tarea2-OCR-ASR-academico/1.0 (uso educativo; consulta de metadatos)"
 
+# Se identifican por pageid de Commons (no por título): el título de F contiene el nombre de la persona
+# entrevistada. El pageid devuelve el mismo archivo (título y SHA-1 verificados el 2026-10-25).
 SELECCION = [
-    {"archivo_local": "audio_F.ogg",
-     "titulo_commons": "Entrevista a [PERSONA_ENTREVISTADA_F]-Organización de mujeres indígenas-fiestas patrias-protesta.ogg",
+    {"archivo_local": "audio_F.ogg", "pageid": 121219891,
      "motivo": "conferencia de prensa al aire libre en Plaza San Martín (Lima), Fiestas Patrias 2022; "
                "aporta ruido ambiente de exteriores y habla pública"},
-    {"archivo_local": "audio_G.ogg",
-     "titulo_commons": "Entrevista 2 en la Av. Rivagüero - El Agustino.ogg",
+    {"archivo_local": "audio_G.ogg", "pageid": 119251160,
      "motivo": "entrevista callejera en El Agustino (Lima) a dos vendedoras; candidata a caso multihablante "
                "(número de hablantes por confirmar con diarización y escucha)"},
 ]
 
 
-def info_commons(titulo: str) -> dict:
+def info_commons(pageid: int) -> dict:
     parametros = {"action": "query", "format": "json", "formatversion": "2", "prop": "imageinfo",
-                  "iiprop": "url|size|sha1|mime", "titles": f"File:{titulo}"}
+                  "iiprop": "url|size|sha1|mime", "pageids": str(pageid)}
     req = urllib.request.Request(f"{API}?{urllib.parse.urlencode(parametros)}", headers={"User-Agent": USER_AGENT})
     with urllib.request.urlopen(req, timeout=60) as r:
-        return json.load(r)["query"]["pages"][0]["imageinfo"][0]
+        pagina = json.load(r)["query"]["pages"][0]
+    return pagina["imageinfo"][0] | {"titulo_commons": pagina["title"].removeprefix("File:")}
 
 
 def descargar(url: str, destino) -> None:
@@ -60,7 +61,7 @@ def main() -> None:
     ADICIONALES.mkdir(parents=True, exist_ok=True)
     filas = []
     for item in SELECCION:
-        info = info_commons(item["titulo_commons"])
+        info = info_commons(item["pageid"])
         destino = ADICIONALES / item["archivo_local"]
         accion = "ya_existia"
         if not destino.exists():
@@ -70,7 +71,8 @@ def main() -> None:
         sha1_ok = sha1(destino) == info["sha1"]
         if not (tam_ok and sha1_ok):
             raise RuntimeError(f"{destino.name}: no coincide con Commons (tamaño={tam_ok}, sha1={sha1_ok})")
-        filas.append(item | {
+        filas.append({
+            "archivo_local": item["archivo_local"], "titulo_commons": info["titulo_commons"], "motivo": item["motivo"],
             "url_archivo": info["url"], "mime_commons": info["mime"],
             "tamano_bytes": destino.stat().st_size, "tamano_coincide": tam_ok,
             "sha1": info["sha1"], "sha1_coincide": sha1_ok, "sha256": sha256(destino),

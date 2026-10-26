@@ -1,7 +1,20 @@
-# --- Datos originales y derivados pesados (no se versionan) ---
+# --- Datos originales, cachés, referencias y material privado (no se versionan) ---
 datos/raw/
+# incluye datos/raw/privacidad/ (mapas nombre -> marcador, tabla de redacción,
+# respaldos previos a la publicación y respaldo del historial git original)
+datos/raw/privacidad/
 
-# --- Pesos, checkpoints y cachés de modelos ---
+# --- Imágenes originales fuera de datos/raw/ (protección adicional) ---
+datos/**/*.jpg
+datos/**/*.jpeg
+datos/**/*.png
+datos/**/*.tif
+datos/**/*.tiff
+datos/**/*.JPG
+datos/**/*.PNG
+
+# --- Modelos: toda la carpeta (pesos, checkpoints, tessdata, ONNX, cachés) ---
+modelos/
 modelos/*.safetensors
 modelos/*.bin
 modelos/*.pt
@@ -10,7 +23,6 @@ modelos/*.onnx
 modelos/*.pdparams
 modelos/*.gguf
 modelos/checkpoint-*/
-modelos/**/
 .cache/
 .paddlex/
 huggingface/
@@ -34,5 +46,5 @@ Thumbs.db
 desktop.ini
 .DS_Store
 
-# Revisión de referencias con texto sin seudonimizar (privado)
+# --- Archivos privados de revisión (texto sin seudonimizar) ---
 datos/REVISION_RAPIDA_REFERENCIAS.md

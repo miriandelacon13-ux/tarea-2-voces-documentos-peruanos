@@ -44,7 +44,7 @@ Com,Oxliade
 Y .Sear
 Man.dedandaug
 C
-yEalumiuntes",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,46,444,0.597,39.118,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,PENDIENTE_REVISION_HUMANA
+yEalumiuntes",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,46,444,0.597,39.118,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,REVISADO_HUMANAMENTE
 doc_002,doc_002.jpg,manuscrito,"Mixto: recibo con formulario impreso (Peruvian Telephone Company, 1895) y contenido variable manuscrito (fecha, nombre, monto); se clasifica por el contenido variable.",True,Peruvian_Telephone_Company_receipt_Lima_1895.JPG,https://commons.wikimedia.org/wiki/File:Peruvian_Telephone_Company_receipt_Lima_1895.JPG,Public domain,JPEG,1132,661," 8219
 Teléfono No.3
 PERUVIAN TELEPHONE COMPANY.
@@ -61,7 +61,7 @@ Soles
 Plate5
 14.5
 peee de faeta de dervices
-145.",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,17,232,0.8481,23.825,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,PENDIENTE_REVISION_HUMANA
+145.",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,17,232,0.8481,23.825,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,REVISADO_HUMANAMENTE
 doc_003,doc_003.jpg,manuscrito,Mixto: recibo impreso (Central & South American Telegraph Co.) con campos manuscritos y timbre; se clasifica por el contenido variable.,True,Peru_revenue_stamp_on_receipt.jpg,https://commons.wikimedia.org/wiki/File:Peru_revenue_stamp_on_receipt.jpg,Public domain,JPEG,791,459,"ral & South American Telegraph Co.
 RECIBO.
 Para, parklite Ofevele
@@ -70,7 +70,7 @@ Para, parklite Ofevele
 Ralabras,
 Tasa,
 Empleado, le
-Fechal",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,9,113,0.936,338.054,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,PENDIENTE_REVISION_HUMANA
+Fechal",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,9,113,0.936,338.054,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,REVISADO_HUMANAMENTE
 doc_004,doc_004.jpg,foto,"Mixto: carta manuscrita (1938) reproducida en página impresa de libro, capturada con iluminación desigual y reflejo; se clasifica por la condición de captura.",True,Inter_american_highway_Peru_document.jpg,https://commons.wikimedia.org/wiki/File:Inter_american_highway_Peru_document.jpg,Public domain,JPEG,896,1137,"CONGRESOSY CONFERENCIAS
 INTERNACIONALES
 La Oction Onferenein Interm
@@ -92,7 +92,7 @@ imia  Preial delos
 pueblos
 ncn.
 Ame, 1 de biiemhe 1938
-OROlunwids",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,22,520,0.7789,19.559,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,PENDIENTE_REVISION_HUMANA
+OROlunwids",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,22,520,0.7789,19.559,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,REVISADO_HUMANAMENTE
 doc_005,doc_005.png,impreso,,False,PENDIENTE_REVISION_HUMANA,PENDIENTE_REVISION_HUMANA,PENDIENTE_REVISION_HUMANA,PNG,1087,1643,"TRADICIONES
 PERUANAS
 POR
@@ -103,7 +103,7 @@ TOMO H
 BARCELONA
 MONTANER Y SIMÓN, EDITORES
 CALLE DE ARAGON, NÚMS. 309 Y 311
-1893",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",canal alfa opaco descartado -> RGB,11,238,0.9715,23.875,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,PENDIENTE_REVISION_HUMANA
+1893",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",canal alfa opaco descartado -> RGB,11,238,0.9715,23.875,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,REVISADO_HUMANAMENTE
 doc_006,doc_006.png,impreso,,False,PENDIENTE_REVISION_HUMANA,PENDIENTE_REVISION_HUMANA,PENDIENTE_REVISION_HUMANA,PNG,1099,1560,"8
 TRADICIONES PERUANAS
 Y luego, ¿qué provecho, en buen análisis,
@@ -159,7 +159,7 @@ Líma, mayo de 1875
 hechizo encuentra siempre el corazón;
 pues dóranlo las luces de un crepúsculo
 RICARDO PALMA
-más bello que del alba el arrebol....",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",canal alfa opaco descartado -> RGB,56,2009,0.9914,54.051,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,PENDIENTE_REVISION_HUMANA
+más bello que del alba el arrebol....",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",canal alfa opaco descartado -> RGB,56,2009,0.9914,54.051,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,REVISADO_HUMANAMENTE
 doc_007,doc_007.png,impreso,"Periódico ilustrado antiguo (1887): papel amarillento, columnas y grabados.",False,PENDIENTE_REVISION_HUMANA,PENDIENTE_REVISION_HUMANA,PENDIENTE_REVISION_HUMANA,PNG,1550,2336,"EI DERNYLUSTRADO
 SEMANARIO ILUSTRADO PARA LAS FAMILIAS – Editores Propietarios, PETER BACIGALUPI & Co.
 AÑO I.}
@@ -239,7 +239,7 @@ Stras ilustraciones de mérito incuestiona
 dos, en su mayor parte, de publica- da cuidadosamente de à bordo, cuyos im-
 es extrangeras que, tauto en Europa portantes detalles verán con verdadero
 ble, por ser en su mayor parte nacionales.
-en las máș cultas capitales de la interés nuestros abonados.",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",canal alfa opaco descartado -> RGB,80,2329,0.9777,87.103,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,PENDIENTE_REVISION_HUMANA
+en las máș cultas capitales de la interés nuestros abonados.",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",canal alfa opaco descartado -> RGB,80,2329,0.9777,87.103,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,REVISADO_HUMANAMENTE
 doc_008,doc_008.jpg,foto,Documento enmarcado bajo vidrio: reflejos y perspectiva.,False,Estado_General_de_Miguel_Grau.jpg,https://commons.wikimedia.org/wiki/File:Estado_General_de_Miguel_Grau.jpg,CC BY 2.0,JPEG,5223,3482,"Nenitai
 Iluascare
 Armada del Pera.
@@ -348,7 +348,7 @@ Corndera
 NDQ
 Wenahtusing
  n Dellar Arid d 1879
-Imp, del Es ado-Lima.",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,109,1276,0.7207,137.33,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,PENDIENTE_REVISION_HUMANA
+Imp, del Es ado-Lima.",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,109,1276,0.7207,137.33,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,REVISADO_HUMANAMENTE
 doc_009,doc_009.png,manuscrito,,False,PENDIENTE_REVISION_HUMANA,PENDIENTE_REVISION_HUMANA,PENDIENTE_REVISION_HUMANA,PNG,1644,2144,"Ins sere
 Riberalta, jumio 10 de 1912.
 Sener don Ricardo Palma
@@ -395,7 +395,7 @@ aJ ay
 do puedo tecir testigo de su innmenen labor de su asidui
 
 dad, de sus fatigas.
-Todo su tiempo era absorbido por",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",canal alfa opaco descartado -> RGB,47,1130,0.5952,64.613,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,PENDIENTE_REVISION_HUMANA
+Todo su tiempo era absorbido por",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",canal alfa opaco descartado -> RGB,47,1130,0.5952,64.613,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,REVISADO_HUMANAMENTE
 doc_010,doc_010.png,impreso,Mecanografiado (máquina de escribir) con firma manuscrita; domina el texto mecánico.,False,PENDIENTE_REVISION_HUMANA,PENDIENTE_REVISION_HUMANA,PENDIENTE_REVISION_HUMANA,PNG,1633,2161,"R。 P。- 2.
 vientes votos por la felicidad de sus dignos y estimables hijos, y
 porque permite la Providencia que le cuerda de que U. me hablaba
@@ -404,7 +404,7 @@ mo preciado tesoro, se prolongue por algunos lustros més, pere hon-
 ra de las letras patrias y consuelo de los que de veres le quieren.
 Con el cariño y respeto de siempre, quedo muy suyo, obse-
 cuente amigo y
-S.S.",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",canal alfa opaco descartado -> RGB,9,423,0.9424,40.48,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,PENDIENTE_REVISION_HUMANA
+S.S.",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",canal alfa opaco descartado -> RGB,9,423,0.9424,40.48,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,REVISADO_HUMANAMENTE
 doc_011,doc_011.jpg,foto,Texto en relieve sobre placa de monumento.,False,Carta_de_Felipe_Santiago_Salaverry_a_la_seva_esposa_abans_de_la_seva_mort_a_Arequipa.jpg,https://commons.wikimedia.org/wiki/File:Carta_de_Felipe_Santiago_Salaverry_a_la_seva_esposa_abans_de_la_seva_mort_a_Arequipa.jpg,CC BY-SA 4.0,JPEG,2368,3156,"CARTA ESCRITA PORELGENERAL
 FELIPESANTIAGOSALAVERRY
 HORASANTESDESUMUERTE
@@ -437,7 +437,7 @@ CON ESTE BUEN MUCHACHO,QUE TE AYUDARA
 A SOBRELLEVARTUS PENAS.
 ADIOS QUERIDA JUANA:RECIBE EL CORAZON
 DE TU DESVENTURADO ESPOSO.
-FELIPE SANTIAGO SALAVERRY",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,33,1129,0.9771,92.905,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,PENDIENTE_REVISION_HUMANA
+FELIPE SANTIAGO SALAVERRY",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,33,1129,0.9771,92.905,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,REVISADO_HUMANAMENTE
 doc_012,doc_012.jpg,foto,Texto en relieve sobre placa de monumento; perspectiva.,False,Carta_de_Grau_a_viuda_de_Prat_en_monumento_chileno.JPG,https://commons.wikimedia.org/wiki/File:Carta_de_Grau_a_viuda_de_Prat_en_monumento_chileno.JPG,CC BY-SA 4.0,JPEG,2736,3648,"MONITORHUASCAR.
 PISAGUA, JUNIO 2 DE 1879.
 SEÑORA
@@ -466,7 +466,7 @@ CIOS, CONSIDERÁCIONES Y RESPETO CON QUE ME SUSCRIBO
 UD. SEÑORA, MUY AFECTISIMO Y SEGURO SERVIDOR
 MIGUELGRAU
 LA-CREACION-Y-COMPOSICION
-ARTISTICA-DEESTEMONUNENTO",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,29,1228,0.9869,125.882,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,PENDIENTE_REVISION_HUMANA
+ARTISTICA-DEESTEMONUNENTO",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,29,1228,0.9869,125.882,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,REVISADO_HUMANAMENTE
 doc_013,doc_013.jpg,manuscrito,Manuscrito en lengua awajún (no español) con algunas palabras en español.,False,Carta_en_idioma_awajun_de_[AUTOR_SEUDONIMIZADO].jpg,https://commons.wikimedia.org/w/index.php?curid=141498872,Public domain,JPEG,960,960,"25De0ciabiadal2014
 [NOMBRE_1].
 nunash ashijuk
@@ -512,7 +512,7 @@ bugon casakaja
 umpampai pño nuavo atata nui mina yatsug
 juguna awetajo
 uampami paja nonash ashi Rumpamjime mina
-dijas takastib",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,47,1167,0.8276,36.069,PENDIENTE_REVISION_HUMANA,contemporáneo,completa (NER + regex),True,10,PENDIENTE_REVISION_HUMANA
+dijas takastib",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,47,1167,0.8276,36.069,PENDIENTE_REVISION_HUMANA,contemporáneo,completa (NER + regex),True,10,REVISADO_HUMANAMENTE
 doc_014,doc_014.jpg,manuscrito,,False,AR-ANH-EF-Secc.II-53-2.jpg,https://commons.wikimedia.org/wiki/File:AR-ANH-EF-Secc.II-53-2.jpg,Public domain,JPEG,2486,3458,"Vn. D Joming Frictan
 Vrallyua Cnuarze 2de1822
 Mi mefon Amiga inlayra d van
@@ -527,7 +527,7 @@ ves lo peaderomo rempe.
 Aio mi anigo, Digamev. iea
 alviade dla teniana y mare to aru Dedarins
 anrigo
-Mnchar coas ami Vicaris y Echenigna",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,15,480,0.6903,84.705,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,PENDIENTE_REVISION_HUMANA
+Mnchar coas ami Vicaris y Echenigna",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,15,480,0.6903,84.705,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,REVISADO_HUMANAMENTE
 doc_015,doc_015.jpg,manuscrito,,False,AR-ANH-EF-Secc.II-64.jpg,https://commons.wikimedia.org/wiki/File:AR-ANH-EF-Secc.II-64.jpg,Public domain,JPEG,3493,4438,"Suniti 12 me Agosk vu1840
 Mi reppetabe hal yPadrino.
 la diventiria a. he lontraido en mi confi.
@@ -539,7 +539,7 @@ eh katallon lmeo- t basin al, enta
 indicacion, ceo eumplin con lo pusticin,
 Sesea a t. may buena Labnd in
 decidids aligads e inbariable dexvidon
-Ge1.0",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,12,405,0.7698,129.355,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,PENDIENTE_REVISION_HUMANA
+Ge1.0",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,12,405,0.7698,129.355,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,REVISADO_HUMANAMENTE
 doc_016,doc_016.jpg,manuscrito,,False,AR-ANH-EF-Secc.II-69.jpg,https://commons.wikimedia.org/wiki/File:AR-ANH-EF-Secc.II-69.jpg,Public domain,JPEG,3544,4464,"$30
 
 Sr I.n. Rodignuer R.
@@ -553,7 +553,7 @@ Recomiéndolo mui especialmente a su
 dietinguida considevacion i a la de sus auto-
 ridades subaltermas.
 Aictuosamente singe
-lierola",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,14,335,0.8072,119.561,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,PENDIENTE_REVISION_HUMANA
+lierola",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,14,335,0.8072,119.561,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,REVISADO_HUMANAMENTE
 doc_017,doc_017.png,manuscrito,"Mixto: tarjeta manuscrita (Ricardo Palma, 1912) con transcripción impresa añadida al pie; la parte impresa puede favorecer al OCR.",True,Tarjeta_de_Ricardo_Palma_a_Luis_Antonio_Eguiguren_Escudero_24_octubre_1912.png,https://commons.wikimedia.org/wiki/File:Tarjeta_de_Ricardo_Palma_a_Luis_Antonio_Eguiguren_Escudero_24_octubre_1912.png,Public domain,PNG,1872,2080,"Agradenco muy sineeromenls
  ming, mio Untomin Eginiguren al
 infimits gut, rnmanth b and pooitle, Gavo-
@@ -565,7 +565,7 @@ Luis Antonio Eguiguren al obsequiarme dos folleti tos cuya lectura
 haré próximamente, y le estimaré infinito que, cuando sea posible,
 favorezca con su ofrecida visita a éste su valetudinario amigo""
 Ricardo Palma
-Miraflores, 24 de Octubre de 1912.",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",canal alfa opaco descartado -> RGB,12,543,0.9003,43.752,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,PENDIENTE_REVISION_HUMANA
+Miraflores, 24 de Octubre de 1912.",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",canal alfa opaco descartado -> RGB,12,543,0.9003,43.752,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,REVISADO_HUMANAMENTE
 doc_018,doc_018.jpg,foto,Documento en vitrina: reflejos y perspectiva.,False,Canciller_inaugura_exposición_del_centenario_del_retorno_de_Tarata_al_Perú_-_54778280176.jpg,https://commons.wikimedia.org/wiki/File:Canciller_inaugura_exposici%C3%B3n_del_centenario_del_retorno_de_Tarata_al_Per%C3%BA_-_54778280176.jpg,CC BY-SA 4.0,JPEG,6192,4128,"B-335
 Protocolo de Arbitraje
 sizstuanalumoD
@@ -598,7 +598,7 @@ Firmado y sellado en doble ejemplar, en Wáshington, D. C., el veinte de julio d
 novecientos veintidós.
 M
 Heman Sla
-Gae Mdun",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,33,1850,0.9158,179.616,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,PENDIENTE_REVISION_HUMANA
+Gae Mdun",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,33,1850,0.9158,179.616,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,REVISADO_HUMANAMENTE
 doc_019,doc_019.jpg,foto,Panel de exposición en perspectiva con textos de distintos tamaños.,False,Canciller_inaugura_exposición_del_centenario_del_retorno_de_Tarata_al_Perú_-_54778614075.jpg,https://commons.wikimedia.org/wiki/File:Canciller_inaugura_exposici%C3%B3n_del_centenario_del_retorno_de_Tarata_al_Per%C3%BA_-_54778614075.jpg,CC BY-SA 4.0,JPEG,5688,3792,"Mocolo de Arbitr
 os en Wáshington.
 América, pa
@@ -642,7 +642,7 @@ LA
 morando la Reincorporación al Se-
 Patria de la Provincia de Tarata
 1
-los Planteles de Instrucción se i",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,44,775,0.9722,171.176,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,PENDIENTE_REVISION_HUMANA
+los Planteles de Instrucción se i",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,44,775,0.9722,171.176,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,REVISADO_HUMANAMENTE
 doc_020,doc_020.jpg,foto,Documento en vitrina: reflejos fuertes.,False,Canciller_inaugura_exposición_del_centenario_del_retorno_de_Tarata_al_Perú.jpg,https://commons.wikimedia.org/wiki/File:Canciller_inaugura_exposici%C3%B3n_del_centenario_del_retorno_de_Tarata_al_Per%C3%BA.jpg,CC BY-SA 4.0,JPEG,6014,4011,"tesr   pi d p e  ,  t
 Los euari s, Agstn mwards, en representastdn de
 la Sopdbliom de Chile, debidamente faoultado al efeoto per el
@@ -684,7 +684,7 @@ a
 
 
 
-",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,42,1800,0.7282,416.76,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,PENDIENTE_REVISION_HUMANA
+",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,42,1800,0.7282,416.76,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,REVISADO_HUMANAMENTE
 doc_021,doc_021.jpg,foto,Fotografía de una pantalla que muestra un texto impreso: moiré y perspectiva. El archivo es PNG aunque tiene extensión .jpg.,False,PENDIENTE_REVISION_HUMANA,PENDIENTE_REVISION_HUMANA,PENDIENTE_REVISION_HUMANA,PNG,530,832,"HIMNO DE CHANCHAMAYO
 CORO
 Chanchamayo, el ""PERÚ"" te Proclama
@@ -729,7 +729,7 @@ convencido con el conocimiento,
 es el dogma de la libertad.
 LAMERCED
 [EMAIL]
-w: 500 × 762 pixels. Other resolutions: 250 × 381 pixels / 330 × 503 pi",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,45,1273,0.965,86.675,PENDIENTE_REVISION_HUMANA,contemporáneo,completa (NER + regex),True,1,PENDIENTE_REVISION_HUMANA
+w: 500 × 762 pixels. Other resolutions: 250 × 381 pixels / 330 × 503 pi",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,45,1273,0.965,86.675,PENDIENTE_REVISION_HUMANA,contemporáneo,completa (NER + regex),True,1,REVISADO_HUMANAMENTE
 doc_022,doc_022.jpg,impreso,,False,Acta_de_Creación_de_los_Símbolos_para_el_Distrito_de_Mache_-_Perù.jpg,https://commons.wikimedia.org/wiki/File:Acta_de_Creaci%C3%B3n_de_los_S%C3%ADmbolos_para_el_Distrito_de_Mache_-_Per%C3%B9.jpg,CC BY 4.0,JPEG,1273,1600,"ACTA DE OFICIALIZACIÓN DE LOS SÍMBOLOS PARA EL DISTRITO DE
 MACHE.
 CONSIDERANDO:
@@ -767,7 +767,7 @@ BANDERA DEL DISTRITO DE MACHE la propuesta presentada por la señorita
 [NOMBRE_15].
 Estando a lo expuesto, contando con el visto bueno de asesoría legal y en
 conformidad con la Constitución Politica del Perú y las facultades dadas por el
-Art. 20 inciso 6 de la Ley Orgánica de Municipalidades N° 27972;",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,38,2374,0.9943,214.289,PENDIENTE_REVISION_HUMANA,contemporáneo,completa (NER + regex),True,6,PENDIENTE_REVISION_HUMANA
+Art. 20 inciso 6 de la Ley Orgánica de Municipalidades N° 27972;",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,38,2374,0.9943,214.289,PENDIENTE_REVISION_HUMANA,contemporáneo,completa (NER + regex),True,6,REVISADO_HUMANAMENTE
 doc_023,doc_023.jpg,impreso,,False,Acta_de_Creación_de_los_Símbolos_para_el_Distrito_de_Mache.jpg,https://commons.wikimedia.org/wiki/File:Acta_de_Creaci%C3%B3n_de_los_S%C3%ADmbolos_para_el_Distrito_de_Mache.jpg,CC BY 4.0,JPEG,1273,1600,"SE RESUELVE:
 .- Artículo 1°- RECONOCER como lema ganador en el Concurso Público
 Creación del Lema para el Distrito de Mache: ""MACHE, AMISTAD BELLEZA Y
@@ -795,7 +795,7 @@ com [NOMBRE_19] MACHE.
 .- Artículo 6°- DISPONER las acciones administrativas legales que correspon-
 dan para el registro y formalización de los símbolos para Mache.
 FIRMADO: por el Alcalde [NOMBRE_12] con
-Resolución de Alcaldía N° 092-2016 de fecha 04 de Marzo 2016.",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,28,1731,0.9894,99.542,PENDIENTE_REVISION_HUMANA,contemporáneo,completa (NER + regex),True,8,PENDIENTE_REVISION_HUMANA
+Resolución de Alcaldía N° 092-2016 de fecha 04 de Marzo 2016.",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,28,1731,0.9894,99.542,PENDIENTE_REVISION_HUMANA,contemporáneo,completa (NER + regex),True,8,REVISADO_HUMANAMENTE
 doc_024,doc_024.jpg,impreso,"Mixto: tarjeta impresa (Policía de Lima, 1921) con relleno manuscrito minoritario; domina el texto impreso.",True,Targheta.jpg,https://commons.wikimedia.org/wiki/File:Targheta.jpg,Public domain,JPEG,1260,995,"POLICIA DE LIMA
 TARJETA DE CIRCULACION
 Los Agentes de Policía y de la fuerza
@@ -808,7 +808,7 @@ iembro de la Emba fral Italiana
 y cortar filas si no hay impedimento de fuerza mayor.
 El Prefecto de Lima
 osnme
-Esta tarjeta es intranalerible",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,13,362,0.8924,35.669,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,PENDIENTE_REVISION_HUMANA
+Esta tarjeta es intranalerible",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,13,362,0.8924,35.669,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,REVISADO_HUMANAMENTE
 doc_025,doc_025.jpg,impreso,"Mapa impreso (1871): texto escaso, disperso y de tamaño variable; imagen de ~93 MP.",False,Mapa_Del_Peru.jpg,https://commons.wikimedia.org/wiki/File:Mapa_Del_Peru.jpg,CC0,JPEG,7962,11698,"80
 78
 81
@@ -2184,4 +2184,4 @@ PEEES
 Patch Reference numbers on UTT
 316
 Image Engineering Scan Reference Chart TE263
-the scale towards document",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,1376,11468,0.9394,34160.623,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,PENDIENTE_REVISION_HUMANA
+the scale towards document",PaddleOCR 3.7.0 (PP-OCRv6_medium_det + PP-OCRv6_medium_rec; paddlepaddle 3.3.1 CPU),"{""lang"": ""es"", ""use_doc_orientation_classify"": false, ""use_doc_unwarping"": false, ""use_textline_orientation"": false, ""enable_mkldnn"": false, ""det_params"": {""limit_side_len"": 64, ""limit_type"": ""min"", ""thresh"": 0.3, ""max_side_limit"": 4000, ""box_thresh"": 0.6, ""unclip_ratio"": 1.5}}",ninguno,1376,11468,0.9394,34160.623,PENDIENTE_REVISION_HUMANA,histórico,solo EMAIL/TELEFONO/DNI,True,0,REVISADO_HUMANAMENTE

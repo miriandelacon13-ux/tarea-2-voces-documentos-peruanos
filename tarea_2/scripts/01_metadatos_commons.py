@@ -17,16 +17,18 @@ import pandas as pd
 
 from utilidades import RAW, REPORTES, sha1
 
-TITULOS_COMMONS = [
-    "Entrevista con [PERSONA_ENTREVISTADA_A].webm",
-    "Entrevista con el señor [PERSONA_ENTREVISTADA_B].webm",
-    "Entrevista con la señora [PERSONA_ENTREVISTADA_C].webm",
-    "Entrevista con un excombatiente de la guerra del Cenepa.webm",
-    "Entrevistas.webm",
+# Páginas de Commons por pageid (no por título): cuatro títulos contienen el nombre de la persona
+# entrevistada. Cada pageid devuelve el mismo archivo (título y SHA-1 verificados el 2026-10-25).
+PAGEIDS_COMMONS = {
+    121326996: "A · entrevista en Jr. de la Unión",
+    121320724: "B · entrevista en Plaza San Martín (1)",
+    121321680: "C · entrevista en Plaza San Martín (2)",
+    121328389: "D · entrevista a un excombatiente del Cenepa",
+    149426476: "E · entrevistas en una ceremonia patronal",
     # Lote adicional (ver 00b_descargar_audio_adicional.py)
-    "Entrevista a [PERSONA_ENTREVISTADA_F]-Organización de mujeres indígenas-fiestas patrias-protesta.ogg",
-    "Entrevista 2 en la Av. Rivagüero - El Agustino.ogg",
-]
+    121219891: "F · conferencia de prensa en Plaza San Martín",
+    119251160: "G · entrevista en El Agustino",
+}
 CARPETAS_AUDIO = [RAW / "audio" / "originales", RAW / "audio" / "adicionales"]
 API = "https://commons.wikimedia.org/w/api.php"
 USER_AGENT = "Tarea2-OCR-ASR-academico/1.0 (uso educativo; consulta de metadatos)"
@@ -52,7 +54,7 @@ def consultar() -> dict:
     parametros = {
         "action": "query", "format": "json", "formatversion": "2", "prop": "imageinfo",
         "iiprop": "size|sha1|url|mime|extmetadata|metadata|timestamp|user",
-        "titles": "|".join("File:" + t for t in TITULOS_COMMONS),
+        "pageids": "|".join(str(p) for p in PAGEIDS_COMMONS),
     }
     req = urllib.request.Request(f"{API}?{urllib.parse.urlencode(parametros)}", headers={"User-Agent": USER_AGENT})
     with urllib.request.urlopen(req, timeout=60) as r:

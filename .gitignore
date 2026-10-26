@@ -3,5 +3,22 @@
 /audio/
 /documentos/
 
-# Secretos de Streamlit (nunca se versionan)
+# Entornos y secretos (nunca se versionan)
+.venv/
 .streamlit/secrets.toml
+.env
+.env.*
+
+# Audio original en cualquier carpeta (protección adicional)
+*.wav
+*.flac
+*.mp3
+*.ogg
+*.webm
+*.m4a
+*.opus
+
+# Privacidad: mapas privados, respaldos del historial git y temporales de la reescritura
+*_PRIVADO.*
+*.bundle
+.git-rewrite/

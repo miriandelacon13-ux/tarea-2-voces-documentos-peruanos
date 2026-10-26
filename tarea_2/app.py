@@ -131,6 +131,8 @@ def pct(x: float) -> str:
 def mostrar(v) -> str:
     if v is None or (isinstance(v, float) and np.isnan(v)) or str(v) == PENDIENTE:
         return PENDIENTE_TXT
+    if str(v) == "REVISADO_HUMANAMENTE":
+        return "Revisada por la autora"
     return str(v)
 
 
